@@ -11,8 +11,11 @@
 
 \pagestyle{headings}
 
+\hspace{1.5cm}
 
-A1. Espécies de aves migratórias^[Nomenclatura de acordo com o Comitê Brasileiro de Registros Ornitológicos - CBRO (Pacheco et al. 2021).] e seus respectivos escores de vulnerabilidade usados na análise do Zonation. (*A = Reprodução exclusiva no Brasil; B = Flocking; C = Voo noturno ou crepuscular; D =	Planador; E = Alta sensibilidade aos impactos das estruturas de apoio, exceto colisão; F = Massa corporal média (0,25 qdo >300g); G =	categoria de ameaça; H = PESO FINAL*).
+Espécies de aves migratórias^[Nomenclatura de acordo com o Comitê Brasileiro de Registros Ornitológicos - CBRO (Pacheco et al. 2021).] e seus respectivos escores de vulnerabilidade usados na análise do Zonation. (*A = Reprodução exclusiva no Brasil; B = 'Flocking'; C = Voo noturno ou crepuscular; D =	Planador; E = Alta sensibilidade aos impactos das estruturas de apoio, exceto colisão; F = Massa corporal média (0,25 quando > 300 g); G =	categoria de ameaça; H = PESO FINAL*).
+
+\hspace{1.0cm}
 
 <table class="table table-striped table-hover table-condensed table-responsive" style="width: auto !important; margin-left: auto; margin-right: auto;">
  <thead>
@@ -1964,90 +1967,6 @@ A1. Espécies de aves migratórias^[Nomenclatura de acordo com o Comitê Brasile
    <td style="text-align:left;"> 0 </td>
    <td style="text-align:right;"> 0 </td>
    <td style="text-align:left;"> 0 </td>
-  </tr>
-</tbody>
-</table>
-
-
-<br>
-
-\newpage
-
-A2. Critérios relativos ao escore de vulnerabilidade de aves migratórias a parques eólicos.  
-
-
-<table class="table table-striped table-hover table-condensed table-responsive" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Critério </th>
-   <th style="text-align:left;"> Conceito empregado </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Reprodução exclusiva no Brasil </td>
-   <td style="text-align:left;width: 10cm; "> A espécie se reproduz exclusivamente no espaço territorial e marítimo brasileiro. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Agrupamento ("Flocking") </td>
-   <td style="text-align:left;width: 10cm; "> Comportamento manifestado pela agregação física (formação gregária) durante o voo. Essas agregações podem ser de diferentes tamanhos, efêmeras ou não, e ainda serem formadas por diferentes espécies de aves. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Voos noturnos ou crepusculares </td>
-   <td style="text-align:left;width: 10cm; "> Voo durante a noite, aurora e crepúsculo, sendo estes dois últimos definidos como os períodos que compreendem o período de luz, devido à dispersão da luz solar na atmosfera, entre a noite e o nascente e o poente e a noite, respectivamente. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Planador ("Soaring") </td>
-   <td style="text-align:left;width: 10cm; "> Habilidade de manter o voo por longos períodos sem a necessidade de bater as suas asas, utilizando, via de regra, correntes de ar ascendentes. </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Sensibilidade a impactos decorrentes das estruturas de apoio (exceto colisão com torres e hélices) </td>
-   <td style="text-align:left;width: 10cm; "> Vulnerabilidade registrada ou observada frente a outras estruturas do empreendimento eólico (electrocussões, perda e degradação de habitat etc.). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Massa corporal média </td>
-   <td style="text-align:left;width: 10cm; "> Refere-se à maior massa corpórea de um indivíduo adulto de qualquer sexo ( 0,25 pontos quando maior que 300 g ). </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 5cm; "> Categoria de ameaça </td>
-   <td style="text-align:left;width: 10cm; "> Categoria de risco de extinção conforme Portaria MMA nº 444/14 (NT = 1; VU = 2; EN = 3; CR = 4). </td>
-  </tr>
-</tbody>
-</table>
-
-
-<br>
-
-A3.  Parâmetros de configuração utilizados no Zonation.  
-
-
-<table class="table table-striped table-hover table-condensed table-responsive" style="width: auto !important; margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Parâmetro </th>
-   <th style="text-align:center;"> Valor </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;font-style: italic;"> removal rule </td>
-   <td style="text-align:center;"> 2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-style: italic;"> edge removal </td>
-   <td style="text-align:center;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-style: italic;"> add edge points </td>
-   <td style="text-align:center;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-style: italic;"> warp factor </td>
-   <td style="text-align:center;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-style: italic;"> use mask </td>
-   <td style="text-align:center;"> 0 </td>
   </tr>
 </tbody>
 </table>

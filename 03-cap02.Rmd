@@ -77,7 +77,7 @@ Por fim, existem ainda as migrações altitudinais, realizadas por espécies que
 
 Desse modo, a compreensão dos padrões de migração e do uso do espaço em diferentes épocas do ano é essencial para o planejamento de ações de conservação em longo prazo, especialmente porque a perda de áreas importantes ou redução de sua qualidade ambiental certamente resultarão no rápido declínio populacional. À luz dessa preocupação, a Resolução CONAMA nº 462/2014 preconiza estudos de impacto ambiental para parques eólicos, em superfície terrestre, nas áreas regulares de rota, pousio, descanso, alimentação e reprodução de aves migratórias.  
 
-No âmbito da Resolução CONAMA nº 462/2014, que trata especificamente de parques eólicos em superfície terrestre, a indicação de Áreas de Concentração para Aves Migratórias no Brasil (Figura 7.10 deste relatório) considera apenas as espécies migratórias que ocorrem em terra, excluindo-se assim, as espécies pelágicas que não usam áreas terrestres no Brasil. Também não foram consideradas as espécies vagantes no Brasil e aquelas categorizadas como ND (não definida). Foram consideradas, então, 176 espécies (81% do total de aves brasileiras migratórias), das quais 101 são migratórias e 75 são parcialmente migratórias (Apêndice A1). 
+No âmbito da Resolução CONAMA nº 462/2014, que trata especificamente de parques eólicos em superfície terrestre, a indicação de Áreas de Concentração de Aves Migratórias no Brasil (Figura 7.10 deste relatório) considera apenas as espécies migratórias que ocorrem em terra, excluindo-se assim, as espécies pelágicas que não usam áreas terrestres no Brasil. Também não foram consideradas as espécies vagantes no Brasil e aquelas categorizadas como ND (não definida). Foram consideradas, então, 176 espécies (81% do total de aves brasileiras migratórias), das quais 101 são migratórias e 75 são parcialmente migratórias (Apêndice A1). 
 
 
 
@@ -214,9 +214,9 @@ Biancalana, R.N. 2017b [WA 2935591, Chaetura pelagica]. Wiki Aves – A Enciclop
 
 BirdLife International. 2014. Migratory Birds and Flyways. Disponível em: http://www.birdlife.org/worldwide/programmes/migratory-birds-and-flyways Acesso em: [20/3/2014].  
 
-Burger, J., Gochfeld, M., Kirwan, G.M., Garcia, E.F.J.  2020. Gray-hooded Gull (*Chroicocephalus cirrocephalus*), version 1.0. In: del Hoyo, J., Elliott, A., Sargatal, A.J., Christie, D.A., de Juana, E. (eds). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.grhgul.01  
+Burger, J., Gochfeld, M., Kirwan, G.M., Garcia, E.F.J.  2020. Gray-hooded Gull (*Chroicocephalus cirrocephalus*), version 1.0. In: del Hoyo, J., Elliott, A., Sargatal, A.J., Christie, D.A., de Juana, E. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.grhgul.01  
 
-del Hoyo, J.C., Carboneras, C., Jutglar, F., Collar, N., Kirwan, G.M. 2020. Cory's Shearwater (*Calonectris diomedea*), version 1.0. In: Billerman S.M., Keeney, B.K., Rodewald, P.G., Schulenberg, T.S. (eds). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.corshe.01  
+del Hoyo, J.C., Carboneras, C., Jutglar, F., Collar, N., Kirwan, G.M. 2020. Cory's Shearwater (*Calonectris diomedea*), version 1.0. In: Billerman S.M., Keeney, B.K., Rodewald, P.G., Schulenberg, T.S. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.corshe.01  
 
 Di Giacomo, A.S., Kopuchian, C. 2016. Una nueva especie de capuchino (*Sporophila*: Thraupidae) de los Esteros del Iberá, Corrientes, Argentina. Nuestras Aves  61: 3‑5. Disponível em: https://issuu.com/avesargentinas/docs/revista_nuestra_aves_n61/2 Acesso em: [17/03/2022].  
 
@@ -224,17 +224,17 @@ Dingle, H. 2014. Migration – the biology of life on the move. Croydon. Univers
 
 Frias, R.T., Porto, L.R.M., Fischer, L.G., Mancini, P.L. 2020. Breeding review of Gray-hooded Gull *Chroicocephalus cirrocephalus* in Brazil with contributions on nests and egg biometry. Papéis Avulsos de Zoologia 60. https://doi.org/10.11606/1807-0205/2020.60.60  
 
-Franks, S., Lank, D.B., Wilson-Jr, W.H. 2020. Western Sandpiper (*Calidris mauri*), version 1.0. In  Poole, A.F. (Ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.wessan.01  
+Franks, S., Lank, D.B., Wilson-Jr, W.H. 2020. Western Sandpiper (*Calidris mauri*), version 1.0. In  Poole, A.F. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.wessan.01  
 
 Galluppi-Selich, T., Cabral, H., Clay, R. 2018 Status of the Ibera Seedeater *Sporophila iberaensis*. Revista Brasileira de Ornitologia 26: 234‑239. Disponível em: http://www.revbrasilornitol.com.br/BJO/article/view/260404 Acesso em: [17/03/2022].  
 
 García-Lau, I., Bani Assadi, S., Kent, G. et al. 2021. Tracking Cuban Martin (*Progne cryptoleuca*) migration to wintering location and back using geolocators: solving a mystery. Ornithology Research 29(2). http://doi.org/10.1007/s43388-021-00057-y  
  
-García-Lau, I., Turner, A. 2021. Cuban Martin (*Progne cryptoleuca*), version 2.0. In Rodewald, P.G., Keeney, B.K. (eds). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.cubmar.02  
+García-Lau, I., Turner, A. 2021. Cuban Martin (*Progne cryptoleuca*), version 2.0. In Rodewald, P.G., Keeney, B.K. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.cubmar.02  
 
 Guaraldo, A.C., Kelly, J.F., Marini, M.A. 2016. Contrasting annual cycles of an intratropical migrant and a tropical resident bird. Journal of Ornithology 157: 695–705. https://doi.org/10.1007/s10336-016-1327-5  
 
-Hilty, S., de Juana, E. 2020. Black-and-white Tanager (*Conothraupis speculigera*), version 1.0. In del Hoyo, J., Elliott, A., Sargatal, J., Christie, D.A., de Juana, E. (eds). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.bawtan1.01  
+Hilty, S., de Juana, E. 2020. Black-and-white Tanager (*Conothraupis speculigera*), version 1.0. In del Hoyo, J., Elliott, A., Sargatal, J., Christie, D.A., de Juana, E. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.bawtan1.01  
  
 Hughes, J.M. 2020. Black-billed Cuckoo (*Coccyzus erythropthalmus*), version 1.0. In: Rodewald, P.G. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.bkbcuc.01  
 
@@ -248,7 +248,7 @@ Joseph, L., Wilke, T., Alpers, D. 2003. Independent evolution of migration on th
  
 Joseph, L., Stockwell, D. 2000. Temperature-based models of the migration of Swainson’s Flycatcher (*Myiarchus swainsoni*) across South America: A new use for museum specimens of migratory birds. Proceedings of the Academy of Natural Sciences of Philadelphia 150: 293-300. Disponível em: https://www.jstor.org/stable/pdf/4065073.pdf  Acesso em: [17/03/2022].  
  
-Kirwan, G.M., Carboneras, C., Jutglar, F. 2020. Boyd's Shearwater (*Puffinus boydi*), version 1.0. In: Billerman, S.M., Keeney, B.K., Rodewald, P.G., Schulenberg, T.S. (eds). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.litshe2.01  
+Kirwan, G.M., Carboneras, C., Jutglar, F. 2020. Boyd's Shearwater (*Puffinus boydi*), version 1.0. In: Billerman, S.M., Keeney, B.K., Rodewald, P.G., Schulenberg, T.S. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.litshe2.01  
  
 Laranjeiras, T.O., Melinski, R.D., Naka, L.N., Leite, G.A., Lima, G.R. et al. 2019. Three bird species new to Brazil from the Serra da Mocidade, a remote mountain in Roraima. Revista Brasileira de Ornitologia 27: 275‑283. Disponível em: http://revbrasilornitol.com.br/BJO/article/view/270408 Acesso em: [17/03/2022].  
 
@@ -259,11 +259,11 @@ Lees, A. 2007. eBird Checklist: https://ebird.org/ebird/view/checklist/S21204435
 Lovette, I.J., Fitzpatrick, J.W. 2016. Handbook of Bird Biology. The Cornell Lab of
 Ornithology. Wiley. Cornell. 733p.  
 
-Lowther, P.E., Douglas III, H.D., Gratto-Trevor, C.L. 2020. Willet (*Tringa semipalmata*), version 1.0. In Poole, A.F., Gill, F.B. (eds). Birds of the World. Cornell Lab of Ornithology, Ithaca, NY, USA. https://doi.org/10.2173/bow.willet1.01  
-Lowther, P.E., Stotz, D.F. 2020. Sulphur-bellied Flycatcher (*Myiodynastes luteiventris*), version 1.0. In Poole, A.F., Gill, F.B. (eds). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.subfly.01  
+Lowther, P.E., Douglas III, H.D., Gratto-Trevor, C.L. 2020. Willet (*Tringa semipalmata*), version 1.0. In Poole, A.F., Gill, F.B. (ed). Birds of the World. Cornell Lab of Ornithology, Ithaca, NY, USA. https://doi.org/10.2173/bow.willet1.01  
+Lowther, P.E., Stotz, D.F. 2020. Sulphur-bellied Flycatcher (*Myiodynastes luteiventris*), version 1.0. In Poole, A.F., Gill, F.B. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.subfly.01  
 Mattsson, B.J., Master, T.L., Mulvihill, R.S., Robinson, W.D. 2020. Louisiana Waterthrush (*Parkesia motacilla*), version 1.0. In Poole, A.F. (ed). Birds of the World. Cornell Lab of Ornithology. Ithaca. New York. https://doi.org/10.2173/bow.louwat.01  
 
-Mobley, J. 2004. *Myiodynastes luteiventris*. In: del Hoyo, J., Elliott, A., Christie, D. (eds). Handbook of the Birds of the World, Vol. 9: Cotinga to Pipits and Wagtails. Lynx Edicions. Barcelona. 413p.  
+Mobley, J. 2004. *Myiodynastes luteiventris*. In: del Hoyo, J., Elliott, A., Christie, D. (ed). Handbook of the Birds of the World, Vol. 9: Cotinga to Pipits and Wagtails. Lynx Edicions. Barcelona. 413p.  
 
 Oliveira, G., Nunes, G.T., Marques, F.P., Bugoni, L. 2019. Scopoli’s shearwater, *Calonectris diomedea*, in the southwest Atlantic Ocean. Marine Biodiversity 49: 531‑537. https://doi.org/10.1007/s12526-017-0798-9  
 

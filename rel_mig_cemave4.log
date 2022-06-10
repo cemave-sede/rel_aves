@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.25)  25 MAY 2022 16:03
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.9)  10 JUN 2022 12:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **rel_mig_cemave4.tex
 (./rel_mig_cemave4.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-05-04> (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/koma-script/scrbook.cls
+L3 programming layer <2022-06-02> (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/koma-script/scrbook.cls
 Document Class: scrbook 2022/05/01 v3.36 KOMA-Script document class (book)
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2022/05/01 v3.36 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
@@ -222,7 +222,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-05-04 L3 programming layer (loader) 
+Package: expl3 2022-06-02 L3 programming layer (loader) 
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2022-04-20 L3 backend support: XeTeX
 \g__graphics_track_int=\count269
@@ -235,9 +235,9 @@ Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
+Package: xparse 2022-06-07 L3 Experimental document command parser
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-06-07 LaTeX2e option processing using LaTeX3 keys
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
@@ -506,7 +506,7 @@ File: ppxetex.def 2022/05/22 v0.5v Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count316
 \AM@templatesizebox=\box65
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/05/22 3.75 The Babel package
+Package: babel 2022/06/06 3.76 The Babel package
 \babel@savecnt=\count317
 \U@D=\dimen181
 \l@unhyphenated=\language3
@@ -554,199 +554,29 @@ Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footer
 \f@nch@O@erf=\skip83
 \f@nch@O@olf=\skip84
 \f@nch@O@orf=\skip85
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen182
-\pgfutil@tempdimb=\dimen183
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box66
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
-))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks29
-))
-\pgf@x=\dimen184
-\pgf@y=\dimen185
-\pgf@xa=\dimen186
-\pgf@ya=\dimen187
-\pgf@xb=\dimen188
-\pgf@yb=\dimen189
-\pgf@xc=\dimen190
-\pgf@yc=\dimen191
-\pgf@xd=\dimen192
-\pgf@yd=\dimen193
-\w@pgf@writea=\write3
-\r@pgf@reada=\read3
-\c@pgf@counta=\count319
-\c@pgf@countb=\count320
-\c@pgf@countc=\count321
-\c@pgf@countd=\count322
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
-\pgf@sys@id@count=\count323
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
-)
-Driver file for pgf: pgfsys-xetex.def
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
-File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-)
-\pgfsys@objnum=\count324
-))) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count325
-\pgfsyssoftpath@bigbuffer@items=\count326
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen194
-\pgfmath@count=\count327
-\pgfmath@box=\box67
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count328
-)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen195
-\pgf@picmaxx=\dimen196
-\pgf@picminy=\dimen197
-\pgf@picmaxy=\dimen198
-\pgf@pathminx=\dimen199
-\pgf@pathmaxx=\dimen256
-\pgf@pathminy=\dimen257
-\pgf@pathmaxy=\dimen258
-\pgf@xx=\dimen259
-\pgf@xy=\dimen260
-\pgf@yx=\dimen261
-\pgf@yy=\dimen262
-\pgf@zx=\dimen263
-\pgf@zy=\dimen264
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen265
-\pgf@path@lasty=\dimen266
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen267
-\pgf@shorten@start@additional=\dimen268
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box68
-\pgf@hbox=\box69
-\pgf@layerbox@main=\box70
-\pgf@picture@serial@count=\count329
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen269
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen270
-\pgf@pt@y=\dimen271
-\pgf@pt@temp=\dimen272
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen273
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen274
-\pgf@sys@shading@range@num=\count330
-\pgf@shadingcount=\count331
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box71
-)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box72
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen275
-\pgf@nodesepend=\dimen276
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks36
-\verbatim@line=\toks37
-\verbatim@in@stream=\read4
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
-Package: environ 2014/05/04 v0.3 A new way to define environments
-(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-\tcb@titlebox=\box73
-\tcb@upperbox=\box74
-\tcb@lowerbox=\box75
-\tcb@phantombox=\box76
-\c@tcbbreakpart=\count332
-\c@tcblayer=\count333
-\c@tcolorbox@number=\count334
-\tcb@temp=\box77
-\tcb@temp=\box78
-\tcb@temp=\box79
-\tcb@temp=\box80
-) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/flafter.sty
-Package: flafter 2021/07/31 v1.4e Standard LaTeX floats after reference (FMi)
-Applying: [2015/01/01] float order in 2-column on input line 49.
-Already applied: [0000/00/00] float order in 2-column on input line 151.
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip86
-\multirow@cntb=\count335
+\multirow@cntb=\count319
 \multirow@dima=\skip87
-\bigstrutjot=\dimen277
+\bigstrutjot=\dimen182
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen278
-\WF@size=\dimen279
-\c@WF@wrappedlines=\count336
-\WF@box=\box81
-\WF@everypar=\toks38
+\wrapoverhang=\dimen183
+\WF@size=\dimen184
+\c@WF@wrappedlines=\count320
+\WF@box=\box66
+\WF@everypar=\toks26
 Package: wrapfig 2003/01/31  v 3.6
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count337
-\float@exts=\toks39
-\float@box=\box82
-\@float@everytoks=\toks40
-\@floatcapt=\box83
+\c@float@type=\count321
+\float@exts=\toks27
+\float@box=\box67
+\@float@everytoks=\toks28
+\@floatcapt=\box68
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-\everycr=\toks41
+\everycr=\toks29
 \minrowclearance=\skip88
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -758,55 +588,226 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box84
-\sift@deathcycles=\count338
-\@vwid@loff=\dimen280
-\@vwid@roff=\dimen281
+\@vwid@box=\box69
+\sift@deathcycles=\count322
+\@vwid@loff=\dimen185
+\@vwid@roff=\dimen186
 )
-\c@taburow=\count339
-\tabu@nbcols=\count340
-\tabu@cnt=\count341
-\tabu@Xcol=\count342
-\tabu@alloc=\count343
-\tabu@nested=\count344
-\tabu@target=\dimen282
-\tabu@spreadtarget=\dimen283
-\tabu@naturalX=\dimen284
-\tabucolX=\dimen285
-\tabu@Xsum=\dimen286
-\extrarowdepth=\dimen287
-\abovetabulinesep=\dimen288
-\belowtabulinesep=\dimen289
-\tabustrutrule=\dimen290
-\tabu@thebody=\toks42
-\tabu@footnotes=\toks43
-\tabu@box=\box85
-\tabu@arstrutbox=\box86
-\tabu@hleads=\box87
-\tabu@vleads=\box88
+\c@taburow=\count323
+\tabu@nbcols=\count324
+\tabu@cnt=\count325
+\tabu@Xcol=\count326
+\tabu@alloc=\count327
+\tabu@nested=\count328
+\tabu@target=\dimen187
+\tabu@spreadtarget=\dimen188
+\tabu@naturalX=\dimen189
+\tabucolX=\dimen190
+\tabu@Xsum=\dimen191
+\extrarowdepth=\dimen192
+\abovetabulinesep=\dimen193
+\belowtabulinesep=\dimen194
+\tabustrutrule=\dimen195
+\tabu@thebody=\toks30
+\tabu@footnotes=\toks31
+\tabu@box=\box70
+\tabu@arstrutbox=\box71
+\tabu@hleads=\box72
+\tabu@vleads=\box73
 \tabu@cellskip=\skip89
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box89
+\@tempboxb=\box74
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
 Package: threeparttablex 2013/07/23 v0.3 by daleif
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
 \TPTL@width=\skip90
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box90
-\UL@hyphenbox=\box91
+\UL@box=\box75
+\UL@hyphenbox=\box76
 \UL@skip=\skip91
-\UL@hook=\toks44
-\UL@height=\dimen291
-\UL@pe=\count345
-\UL@pixel=\dimen292
-\ULC@box=\box92
+\UL@hook=\toks32
+\UL@height=\dimen196
+\UL@pe=\count329
+\UL@pixel=\dimen197
+\ULC@box=\box77
 Package: ulem 2019/11/18
-\ULdepth=\dimen293
+\ULdepth=\dimen198
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen294
-\c@nlinenum=\count346
-\TeXr@lab=\toks45
+\rotheadsize=\dimen199
+\c@nlinenum=\count330
+\TeXr@lab=\toks33
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen256
+\pgfutil@tempdimb=\dimen257
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box78
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen258
+\pgf@y=\dimen259
+\pgf@xa=\dimen260
+\pgf@ya=\dimen261
+\pgf@xb=\dimen262
+\pgf@yb=\dimen263
+\pgf@xc=\dimen264
+\pgf@yc=\dimen265
+\pgf@xd=\dimen266
+\pgf@yd=\dimen267
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count331
+\c@pgf@countb=\count332
+\c@pgf@countc=\count333
+\c@pgf@countd=\count334
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count335
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count336
+))) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count337
+\pgfsyssoftpath@bigbuffer@items=\count338
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen268
+\pgfmath@count=\count339
+\pgfmath@box=\box79
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count340
+)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen269
+\pgf@picmaxx=\dimen270
+\pgf@picminy=\dimen271
+\pgf@picmaxy=\dimen272
+\pgf@pathminx=\dimen273
+\pgf@pathmaxx=\dimen274
+\pgf@pathminy=\dimen275
+\pgf@pathmaxy=\dimen276
+\pgf@xx=\dimen277
+\pgf@xy=\dimen278
+\pgf@yx=\dimen279
+\pgf@yy=\dimen280
+\pgf@zx=\dimen281
+\pgf@zy=\dimen282
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen283
+\pgf@path@lasty=\dimen284
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen285
+\pgf@shorten@start@additional=\dimen286
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box80
+\pgf@hbox=\box81
+\pgf@layerbox@main=\box82
+\pgf@picture@serial@count=\count341
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen287
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen288
+\pgf@pt@y=\dimen289
+\pgf@pt@temp=\dimen290
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen291
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen292
+\pgf@sys@shading@range@num=\count342
+\pgf@shadingcount=\count343
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+(c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box83
+)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box84
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen293
+\pgf@nodesepend=\dimen294
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks44
+\verbatim@line=\toks45
+\verbatim@in@stream=\read4
+)
+\tcb@titlebox=\box85
+\tcb@upperbox=\box86
+\tcb@lowerbox=\box87
+\tcb@phantombox=\box88
+\c@tcbbreakpart=\count344
+\c@tcblayer=\count345
+\c@tcolorbox@number=\count346
+\tcb@temp=\box89
+\tcb@temp=\box90
+\tcb@temp=\box91
+\tcb@temp=\box92
+) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/flafter.sty
+Package: flafter 2021/07/31 v1.4e Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
 ) (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip92
@@ -871,50 +872,50 @@ LaTeX Warning: Label `tab:tab07' multiply defined.
 )
 \openout1 = `rel_mig_cemave4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-Package scrbase Info: activating portuguese \partname on input line 104.
-Package scrbase Info: activating portuguese \chaptername on input line 104.
-Package scrbase Info: activating portuguese \appendixname on input line 104.
-Package scrbase Info: activating portuguese \figurename on input line 104.
-Package scrbase Info: activating portuguese \tablename on input line 104.
-Package scrbase Info: activating portuguese \contentsname on input line 104.
-Package scrbase Info: activating portuguese \listfigurename on input line 104.
-Package scrbase Info: activating portuguese \listtablename on input line 104.
-Package scrbase Info: activating portuguese \bibname on input line 104.
-Package scrbase Info: activating portuguese \indexname on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+Package scrbase Info: activating portuguese \partname on input line 116.
+Package scrbase Info: activating portuguese \chaptername on input line 116.
+Package scrbase Info: activating portuguese \appendixname on input line 116.
+Package scrbase Info: activating portuguese \figurename on input line 116.
+Package scrbase Info: activating portuguese \tablename on input line 116.
+Package scrbase Info: activating portuguese \contentsname on input line 116.
+Package scrbase Info: activating portuguese \listfigurename on input line 116.
+Package scrbase Info: activating portuguese \listtablename on input line 116.
+Package scrbase Info: activating portuguese \bibname on input line 116.
+Package scrbase Info: activating portuguese \indexname on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 104.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 104.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 104.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 104.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 104.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 104.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 116.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 104.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 116.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -940,7 +941,7 @@ Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 104.
+(Font)              scaled to size 10.95pt on input line 116.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -972,15 +973,15 @@ Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 104.
+(Font)              scaled to size 10.95pt on input line 116.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 104.
+(Font)              `operators' in the math version `normal' on input line 116.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 104.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 116.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 104.
+(Font)              `operators' in the math version `bold' on input line 116.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 104.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 116.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -1059,13 +1060,13 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 104.
+(Font)              `symbols' in the math version `normal' on input line 116.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 104.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 116.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 104.
+(Font)              `symbols' in the math version `bold' on input line 116.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 104.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 116.
 
 Package fontspec Info: latinmodern-math scale = 0.9999967668407183.
 
@@ -1126,14 +1127,14 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 104.
+(Font)              `largesymbols' in the math version `normal' on input line 116.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 104.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 116.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 104.
+(Font)              `largesymbols' in the math version `bold' on input line 116.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 104.
-Package hyperref Info: Link coloring OFF on input line 104.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 116.
+Package hyperref Info: Link coloring OFF on input line 116.
 File: imagens/capa/capafinal.png Graphic file (type bmp)
 <imagens/capa/capafinal.png>
 File: imagens/capa/capafinal.png Graphic file (type bmp)
@@ -1148,36 +1149,36 @@ File: imagens/capa/capafinal.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 107.
+(Font)              scaled to size 14.4pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 107.
+(Font)              scaled to size 10.0pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 107.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 107.
+(Font)              scaled to size 7.0pt on input line 119.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 119.
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 107.
+(Font)              scaled to size 14.4013pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 107.
+(Font)              scaled to size 10.00092pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 107.
+(Font)              scaled to size 7.00064pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 107.
+(Font)              scaled to size 14.39845pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 107.
+(Font)              scaled to size 9.99893pt on input line 119.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 107.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 107.
+(Font)              scaled to size 6.99925pt on input line 119.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 119.
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 107.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 119.
 (c:/Users/Arlindo_Casa/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (51.80826pt too wide) in paragraph at lines 107--107
+Overfull \hbox (51.80826pt too wide) in paragraph at lines 119--119
  [][] 
  []
 
@@ -1207,23 +1208,33 @@ LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <10.95> not available
 
 
 ]
-Overfull \hbox (1.09497pt too wide) detected at line 50
- []\TU/lmss/bx/n/10.95 163
+Overfull \hbox (1.09497pt too wide) detected at line 49
+ []\TU/lmss/bx/n/10.95 153
  []
 
 
-Overfull \hbox (1.09497pt too wide) detected at line 56
- []\TU/lmss/bx/n/10.95 209
+Overfull \hbox (1.09497pt too wide) detected at line 55
+ []\TU/lmss/bx/n/10.95 201
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 61
+ []\TU/lmss/bx/n/10.95 222
  []
 
 
 Overfull \hbox (1.09497pt too wide) detected at line 62
- []\TU/lmss/bx/n/10.95 231
+ []\TU/lmss/bx/n/10.95 228
  []
 
 
 Overfull \hbox (1.09497pt too wide) detected at line 63
- []\TU/lmss/bx/n/10.95 237
+ []\TU/lmss/bx/n/10.95 229
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 64
+ []\TU/lmss/bx/n/10.95 230
  []
 
 )
@@ -1238,30 +1249,30 @@ Overfull \hbox (1.09497pt too wide) detected at line 63
 
 ] [7]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 233.
+(Font)              scaled to size 9.0pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 233.
+(Font)              scaled to size 6.0pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 233.
+(Font)              scaled to size 5.0pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00082pt on input line 233.
+(Font)              scaled to size 9.00082pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 233.
+(Font)              scaled to size 6.00055pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 233.
+(Font)              scaled to size 5.00046pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 233.
+(Font)              scaled to size 8.99904pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 233.
+(Font)              scaled to size 5.99936pt on input line 245.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 233.
+(Font)              scaled to size 4.99947pt on input line 245.
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
   [][][][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][] [] [][][][][][] [] [][][][][][][][][] [][] [] [][] [][][][][][][][] [] [][][] [][] [][][][][][] [][] [][][][][][][] [][] [][][][][][][][][] [][] [][][][][] [][] [][][][][] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--241
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
   [][][][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][] [] [][][][][][] [] [][][][][][][][][] [][] [] [][] [][][][][][][][] [] [][][] [][] [][][][][][] [][] [][][][][][][] [][] [][][][][][][][][] [][] [][][][][] [][] [][][][][] [][]
  []
 
@@ -1296,479 +1307,1037 @@ File: imagens/cap01/Figura_1.2.jpg Graphic file (type bmp)
 <imagens/cap01/Figura_1.2.jpg>
 [13] [14]
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <12> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 346.
+(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 358.
+[15]
 File: imagens/cap01/Figura_1.3.jpg Graphic file (type bmp)
 <imagens/cap01/Figura_1.3.jpg>
 File: imagens/cap01/Figura_1.4.jpg Graphic file (type bmp)
 <imagens/cap01/Figura_1.4.jpg>
-[15] [16]
+[16]
 File: imagens/cap01/Figura_1.5.jpg Graphic file (type bmp)
 <imagens/cap01/Figura_1.5.jpg>
-File: imagens/cap01/Figura_1.6.jpg Graphic file (type bmp)
-<imagens/cap01/Figura_1.6.jpg>
-[17] [18] [19]
+[17]
+File: imagens/cap01/Figura_1.6_1.jpg Graphic file (type bmp)
+<imagens/cap01/Figura_1.6_1.jpg>
+[18] [19] [20]
 File: imagens/cap01/Figura_1.7.jpg Graphic file (type bmp)
 <imagens/cap01/Figura_1.7.jpg>
-[20] [21]
+[21] [22]
 File: imagens/cap01/Figura_1.8.jpg Graphic file (type bmp)
 <imagens/cap01/Figura_1.8.jpg>
-[22] [23] [24] [25] [26]
-Underfull \hbox (badness 2042) in paragraph at lines 530--531
+[23] [24] [25] [26] [27] [28]
+Underfull \hbox (badness 2951) in paragraph at lines 534--535
+\TU/lmr/m/n/10.95 Disponível em: []$[][][][] [] [] [] [][][][][][][][][] [] [][][] [] [][] [] [][] [][] [][][][][][][] [] [][][][][][][] [] [][][][] [] [][] [] [][] [] [][][][][][][] [][]
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 538--539
+[]\TU/lmr/m/n/10.95 Amarante, O.A.C., Brower, M., Zack, J., Sá, A.L. 2001. Atlas do poten-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 538--539
 \TU/lmr/m/n/10.95 cial eólico brasileiro. Disponível em: []$[][][][] [] [] [] [][][] [] [][][][][][][] [] [][][][][] [] [][] [] [][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
+[][][][][][][][] [] [][][][][] [] [][][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][][] [] [][][]$[] \TU/lmr/m/n/10.95 Acesso
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 542--543
+\TU/lmr/m/n/10.95 do Brasil. Disponível em: []$[][][][] [] [] [] [][][][] [] [][][][][] [] [][][] [] [][] [] [][][][][][][][][][] [] [][][][][] [] [][][] [] [][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 [][][] [] [][] [] [][][][][][] [] [][][][][] [] [][][][][] [] [][][][][][][] [] [][][][][][][][] [][] [][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][] [] [][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 [][][][] [] [][][][][][][] [] [][][] [] [][][][] [][] [][][][][] [] [][][][][][][][][] [] [][] [] [][][][][][][] [] [][][][][][][][][][][][][][] [] [] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 [][] [] [][][][][][][][][][][] [] [][][][][][] [] [][][][][][] [] [][] [] [][][][][][][] [] [][][][][][][][][][][][][][][][] [] [][] [] [][][] [] [][][][] [][]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 544--545
-[]$[][][][][] [] [] [] [][][][][][][][][] [] [][][] [] [][] [] [][][][][][][] [] [][][][][][][] [] [][][][][][][] [][] [][][][][][] [][] [][][][][][] [][] [][][][] [][] [][] [][] [][][][] [][] [][] [][]
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
+[] [] [][][][][][][][][] [] [][][] [] [][] [] [][][][][][][] [] [][][][][][][] [] [][][][][][][] [][] [][][][][][] [][] [][][][][][] [][] [][][][] [][] [][] [][] [][][][] [][] [][] [][] [][][][][][][]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 544--545
-[][][][][][] [] [] [] [] [] [][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][] [] [][] [] [][][][][][][][] [] [][] [] [][][][][][][][][][][] []
+Underfull \hbox (badness 6332) in paragraph at lines 560--561
+\TU/lmr/m/n/10.95 Fortaleza. Disponível em: []$[][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][] [] [][] [][]
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 544--545
-[][][][] [] [][][][][][] [] [][] [] [][][] [][] [][] [] [][][][][][][][][] [] [][][][] [] [][] [] [][][][][][][] [] [][][][][][][][][]$[]\TU/lmr/m/n/10.95 . Acesso em:
- []
-
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 550--551
-[] [] [][][] [] [][][] [] [][][] [] [][] [] [][] [] [][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][] [][] [][] [][] [][][][][][][] [][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 550--551
-[][][][][][][][] [] [][][][][][][] [][] [][][][][] [][] [][] [][] [][][][][][][] [][] [][][][][][][][] [][] [][][] [][] [][][][][][] [][] [][][][][][][][][][]$[]\TU/lmr/m/n/10.95 . Acesso em:
+Underfull \hbox (badness 1087) in paragraph at lines 564--565
+\TU/lmr/m/n/10.95 Disponível em []$[][][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][]$[]
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 568--569
+[][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][] [][] [][][][][][][][] [][] [][] [][] [][][][][][][] [][] [][][] [][] [][][][]$[] \TU/lmr/m/n/10.95 Acesso
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 570--571
+\TU/lmr/m/n/10.95 em: []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][] [] [][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][] [][] [][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--571
+[][][][][][][] [][] [][][][][][][][] [] [][][][][][][] [][] [][][][][] [][] [][] [][] [][][][][][][] [][] [][][][][][][][] [][] [][][] [][] [][][][][][] [][] [][][][][][][][][][]$[] \TU/lmr/m/n/10.95 Acesso em:
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 572--573
+[]\TU/lmr/m/n/10.95 MME (Ministério de Minas e Energia). 2020a. Plano Decenal de Expansão
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+[]$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [] [][] [] [][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][] [][] [][][][][][][] [][] [][] [][]
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
+[][] [] [][][][][] [][] [][] [] [][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
+[][] [] [][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][] [][] [][][][][][][] [][] [][] [][] [][][][][][][][] [][] [][] [][] [][][][][][][] [][] [][][][]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
 \TU/lmr/m/n/10.95 Disponível em: []$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][] [] [][] [][] [][] [] [][][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][] [][]
  []
 
 
-Overfull \hbox (1.51439pt too wide) in paragraph at lines 568--569
-[][][][][][][][][] [] [][][][][][][][][][][][] [][] [][] [][] [][][][][] [][] [][][][][][][][] [] [][] [][] [][][][][][][][][][][][]$[]\TU/lmr/m/n/10.95 . Acesso em: [10/11/2021]. 
+Underfull \hbox (badness 10000) in paragraph at lines 582--583
+[][] [] [][][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] [][] [][][] [] [][] [][]
  []
 
-[28] [29]
+[31] [32]
 chapter 2.
-[30
+[33
 
 
-] [31] [32] [33] [34] [35]
-Underfull \hbox (badness 1043) in paragraph at lines 725--726
+] [34] [35] [36] [37] [38]
+Underfull \hbox (badness 1043) in paragraph at lines 735--736
 []\TU/lmr/m/n/10.95 BirdLife International. 2014. Migratory Birds and Flyways. Disponível em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 725--726
+Underfull \hbox (badness 10000) in paragraph at lines 735--736
 []$[][][][] [] [] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][][] [] [][][][][][][][][][] [] [][][][][][][][][] [][] [][][][][] [][] [][][] [][] [][][][][][][]$[] \TU/lmr/m/n/10.95 Acesso
  []
 
-[36] [37] [38] [39] [40]
+[39] [40] [41] [42] [43]
 chapter 3.
-[41
+[44
 
 
 ]
 File: 04-cap03_files/figure-latex/09-1.pdf Graphic file (type pdf)
 <use 04-cap03_files/figure-latex/09-1.pdf>
+[45]
 File: 04-cap03_files/figure-latex/10-1.pdf Graphic file (type pdf)
 <use 04-cap03_files/figure-latex/10-1.pdf>
-[42] [43]
+[46]
 File: imagens/cap03/Figura_3.3.png Graphic file (type bmp)
 <imagens/cap03/Figura_3.3.png>
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 889--890
+[47] [48]
+Underfull \hbox (badness 10000) in paragraph at lines 898--899
 [][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][] [][] [][][][][][][][] [] [][][][][] [] [][][][][][][][] [] [][][][] [] [][][][] [] [][][]$[]
  []
 
-[45]
+[49]
 chapter 4.
-[46
+[50
 
 
 ]
 File: imagens/cap04/Figura_4.1.png Graphic file (type bmp)
 <imagens/cap04/Figura_4.1.png>
-[47] [48] [49] [50] [51]
+[51] [52] [53] [54] [55]
 File: imagens/cap04/Figura_4.2ab.jpg Graphic file (type bmp)
 <imagens/cap04/Figura_4.2ab.jpg>
-[52] [53]
+[56] [57] [58]
 File: imagens/cap04/Figura_4.3.png Graphic file (type bmp)
 <imagens/cap04/Figura_4.3.png>
-[54] [55] [56]
+[59] [60]
 File: imagens/cap04/Figura_4.4ab.jpg Graphic file (type bmp)
 <imagens/cap04/Figura_4.4ab.jpg>
-[57] [58]
-Underfull \hbox (badness 10000) in paragraph at lines 1105--1106
+[61] [62]
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1117
 []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [][] [][][][][][][] [] [][][][][][][] [] [][][][] [] [][] [] [][][][][][] [][] [][][][][][][] [][] [][][][][][][] [][]
  []
 
-[59]
-Underfull \hbox (badness 1189) in paragraph at lines 1127--1128
+[63]
+Underfull \hbox (badness 1189) in paragraph at lines 1138--1139
 \TU/lmr/m/n/10.95 guidelines. Disponível em: []$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][] [] [][] [] [][][][][] [] [][][][][] [] [][][][][][][][][] [] [][][]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1129--1130
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1141
 [][][][][][] [] [][][][][] [] [][][][][][][][][] [] [][][][][][][][] [][] [][][][] [][] [][][][] [][] [][][][] [][] [][][][][][][][][][][][] [] [][][][][] [] [][][][][] [][] [][][][][][][][] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1135--1136
-[][][][][][][][] [] [][] [] [][][][][] [][] [][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][] [] [][] [] [][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][]$[]
+Underfull \hbox (badness 1442) in paragraph at lines 1146--1147
+[]\TU/lmr/m/n/10.95 Evans, W.R., Akashi, Y., Altman, N.S., Manville, A.M. 2007. Response of
  []
 
-[60]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][] [] [][][][][] [][] [][][][][][][][][] []
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
 [][][][][][][] [] [][][][][] [] [][][][][][][][][][][][] [] [][][][][][] [] [][] [] [][] [] [][][][][][][][][] [] [][][][][][] [] [][] [] [][][][][][][][][][][][] [] [][][]$[]
  []
 
-[61]
-Underfull \hbox (badness 3679) in paragraph at lines 1172--1173
+[65]
+Underfull \hbox (badness 3679) in paragraph at lines 1184--1185
 [][][][][][][] [][] [][][][][] [][] [][][][][][][][] [][] [][][][][][][] [][] [][][] [][] [][][][][][][][][] [][] [][][][][][][][] [][] [][][][] [][] [][][][][][] [][] [][][][][][]$[] \TU/lmr/m/n/10.95 Acesso em:
  []
 
-[62]
-Underfull \hbox (badness 1484) in paragraph at lines 1196--1197
+[66]
+Underfull \hbox (badness 1484) in paragraph at lines 1208--1209
 []\TU/lmr/m/n/10.95 USFWS (US Fish and Wildlife Service). 2003. Interim guidelines to avoid
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 1196--1197
+Underfull \hbox (badness 3068) in paragraph at lines 1208--1209
 \TU/lmr/m/n/10.95 and minimise wildlife impacts from wind turbines. Disponível em: []$[][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1199
-[][][][][][] [] [][][][][][] [] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][] [] [][] [] [][][][][][][] [] [][][] [] [][][] [] [][][][][][] [][] [][][][][] [] [][][]$[]
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
+[]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][] [] [][][][][][] [] [][][][][][] [] [][][][][][][] [] [][][][][][][][][][][] [] [][][][][] [] [][] [] [][][][][][][] []
  []
 
-[63] [64]
+[67]
 chapter 5.
-[65
+[68
 
 
-] [66]
-File: imagens/cap05/Figura_5.1.jpg Graphic file (type bmp)
-<imagens/cap05/Figura_5.1.jpg>
-[67] [68] [69] [70]
+] [69]
+File: imagens/cap05/Figura_5.1.png Graphic file (type bmp)
+<imagens/cap05/Figura_5.1.png>
+[70] [71] [72] [73]
 File: imagens/cap05/Figura_5.2.jpg Graphic file (type bmp)
 <imagens/cap05/Figura_5.2.jpg>
-[71] [72]
-Underfull \hbox (badness 10000) in paragraph at lines 1384--1385
+[74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 1418--1419
 []$[][][][][] [] [] [] [][][] [] [][][] [] [][][] [] [][] [][] [][][][][][][] [] [][][][][][][] [] [][][][] [] [][] [] [][][][][][] [][] [][][][][][][] [][] [][][][][][][] [][]
  []
 
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 1392--1393
+
+Underfull \hbox (badness 10000) in paragraph at lines 1426--1427
 [][][][][][][][][][][][] [][] [][][][][] [][] [] [][] [][][][][][] [][] [][][][][][][] [][] [][][] [][] [][][][][][][][][][] [][] [][][][][][] [][] [][][] [][] [][][][][][][][][][] [][] [][][][][][] [][] [][][][]$[]
  []
 
-
-Underfull \hbox (badness 2142) in paragraph at lines 1406--1407
-[]\TU/lmr/m/n/10.95 Evans, W.R., Akashi Y., Altman N.S., Manville, A.M. 2007. Response of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
-[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][] [] [][][][][] [][] [][][][][][][][][] []
- []
-
-[74] [75]
+[76] [77] [78]
 chapter 6.
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <20.74> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 1428.
-[76
+(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 1462.
+[79
 
 
-] [77]
+]
 File: imagens/cap06/Figura_6.1.jpg Graphic file (type bmp)
 <imagens/cap06/Figura_6.1.jpg>
+[80]
 File: imagens/cap06/Figura_6.2.jpg Graphic file (type bmp)
 <imagens/cap06/Figura_6.2.jpg>
-[78] [79]
+[81] [82]
 File: imagens/cap06/Figura_6.3ab.jpg Graphic file (type bmp)
 <imagens/cap06/Figura_6.3ab.jpg>
-[80]
-Underfull \hbox (badness 1009) in paragraph at lines 1526--1527
-[]\TU/lmr/m/n/10.95 Naturalmente, no monitoramento deve se dar especial atenção para as espécies
+[83]
+Underfull \hbox (badness 1371) in paragraph at lines 1557--1558
+[]\TU/lmr/m/n/10.95 Naturalmente, no monitoramento deve-se dar especial atenção para as espécies
  []
 
-[81] [82] [83]
-Underfull \hbox (badness 10000) in paragraph at lines 1561--1562
+[84] [85] [86]
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
 []$[][][][][] [] [] [] [][][] [] [][][][][][][][][] [] [][][] [] [][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][][][] []
  []
 
-[84]
-Underfull \hbox (badness 10000) in paragraph at lines 1593--1594
-[]$[][][][][] [] [] [] [][][][][][] [] [][][][] [] [][][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][][][][][][][][] [] [][][][][][][] [] [][][][] [] [][][][][][][][] [] [][][] []
- []
-
-[85] [86]
+[87] [88] [89]
 chapter 7.
-[87
+[90
 
 
-] [88]
+] [91]
 File: imagens/cap07/Figura_7.1.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.1.jpg>
-[89]
-Overfull \hbox (278.15608pt too wide) in alignment at lines 1664--1690
- [] [] [] 
- []
-
-[90]
-Overfull \hbox (65.91226pt too wide) in alignment at lines 1694--1699
+[92] [93] [94]
+Overfull \hbox (19.95325pt too wide) in alignment at lines 1734--1739
  [] [] [] 
  []
 
 
-Overfull \hbox (65.91226pt too wide) in alignment at lines 1699--1704
+Overfull \hbox (19.95325pt too wide) in alignment at lines 1739--1744
  [] [] [] 
  []
 
 
-Overfull \hbox (65.91226pt too wide) in alignment at lines 1704--1706
+Overfull \hbox (19.95325pt too wide) in alignment at lines 1744--1746
  [] [] [] 
  []
 
 
-Overfull \hbox (65.91226pt too wide) in alignment at lines 1706--1709
+Overfull \hbox (19.95325pt too wide) in alignment at lines 1746--1749
  [] [] [] 
  []
 
 
-Overfull \hbox (65.91226pt too wide) in alignment at lines 1709--1922
+Overfull \hbox (19.95325pt too wide) in alignment at lines 1749--1961
  [] [] [] 
  []
 
-[91] [92] [93] [94] [95] [96] [97] [98] [99] [100]
+[95] [96] [97] [98] [99] [100] [101] [102] [103]
 File: imagens/cap07/Figura_7.2.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.2.jpg>
-[101] [102]
+[104] [105]
 File: imagens/cap07/Figura_7.3.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.3.jpg>
-[103] [104]
+[106] [107]
 File: imagens/cap07/Figura_7.4.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.4.jpg>
-[105] [106]
+[108] [109]
 File: imagens/cap07/Figura_7.5.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.5.jpg>
-[107]
+[110]
 File: imagens/cap07/Figura_7.6.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.6.jpg>
-[108] [109] [110] [111]
+[111] [112] [113] [114]
 File: imagens/cap07/Figura_7.7.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.7.jpg>
-[112] [113]
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 2214--2215
+
+ []
+
+[116]
 File: imagens/cap07/Figura_7.8.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.8.jpg>
 
-Underfull \hbox (badness 1648) in paragraph at lines 2171--2171
-[][][]\TU/lmr/m/n/10.95 Bando de maçarico-de-papo-vermelho (Calidris canutus) no Balneário
+Underfull \hbox (badness 1577) in paragraph at lines 2222--2222
+[][][]\TU/lmr/m/n/10.95 Bando de maçarico-de-papo-vermelho (\TU/lmr/m/it/10.95 Calidris canutus\TU/lmr/m/n/10.95 ) no Balneário
  []
 
+[117]
 File: imagens/cap07/Figura_7.9.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.9.jpg>
+[118]
 File: imagens/cap07/Figura_7.10.png Graphic file (type bmp)
 <imagens/cap07/Figura_7.10.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2201--2201
+Underfull \hbox (badness 10000) in paragraph at lines 2258--2258
   [][][][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][] [] [][][][][][] [] [][][][][][][][][] [][] [] [][] [][][][][][][][] [] [][][] [][] [][][][][][] [][] [][][][][][][] [][] [][][][][][][][][] [][] [][][][][] [][] [][][][][] [][]
  []
 
-[114] [115] [116]
-File: imagens/cap07/Figura_7.11_AL.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.11_AL.png>
-File: imagens/cap07/Figura_7.12_BA.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.12_BA.png>
-File: imagens/cap07/Figura_7.13_CE.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.13_CE.png>
-File: imagens/cap07/Figura_7.14_MA.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.14_MA.png>
-File: imagens/cap07/Figura_7.15_PB.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.15_PB.png>
-File: imagens/cap07/Figura_7.16_PE.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.16_PE.png>
-File: imagens/cap07/Figura_7.17_PI.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.17_PI.png>
-File: imagens/cap07/Figura_7.18_RN.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.18_RN.png>
-File: imagens/cap07/Figura_7.19_SE.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.19_SE.png>
-File: imagens/cap07/Figura_7.20_AC.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.20_AC.png>
-File: imagens/cap07/Figura_7.21_AP.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.21_AP.png>
-File: imagens/cap07/Figura_7.22_AM.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.22_AM.png>
-File: imagens/cap07/Figura_7.23_PA.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.23_PA.png>
-File: imagens/cap07/Figura_7.24_RO.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.24_RO.png>
-File: imagens/cap07/Figura_7.25_RR.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.25_RR.png>
-File: imagens/cap07/Figura_7.26_TO.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.26_TO.png>
-File: imagens/cap07/Figura_7.27_ES.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.27_ES.png>
-File: imagens/cap07/Figura_7.28_MG.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.28_MG.png>
-File: imagens/cap07/Figura_7.29_RJ.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.29_RJ.png>
-File: imagens/cap07/Figura_7.30_SP.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.30_SP.png>
-File: imagens/cap07/Figura_7.31_DF.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.31_DF.png>
-File: imagens/cap07/Figura_7.32_GO.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.32_GO.png>
-File: imagens/cap07/Figura_7.33_MT.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.33_MT.png>
-File: imagens/cap07/Figura_7.34_MS.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.34_MS.png>
-File: imagens/cap07/Figura_7.35_PR.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.35_PR.png>
-File: imagens/cap07/Figura_7.36_RS.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.36_RS.png>
-File: imagens/cap07/Figura_7.37_SC.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.37_SC.png>
-File: imagens/cap07/Figura_7.38_Abrolhos.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.38_Abrolhos.png>
-File: imagens/cap07/Figura_7.39_Rocas_Noronha.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.39_Rocas_Noronha.png>
-File: imagens/cap07/Figura_7.40_Trindade_M_Vaz.png Graphic file (type bmp)
-<imagens/cap07/Figura_7.40_Trindade_M_Vaz.png>
+[119]
+File: imagens/cap07/Fig_11_AL_BA.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_11_AL_BA.jpg>
+[120]
+Overfull \vbox (17.5206pt too high) has occurred while \output is active []
+
+[121]
+File: imagens/cap07/Fig_12_CE_MA.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_12_CE_MA.jpg>
+
+Overfull \vbox (28.79579pt too high) has occurred while \output is active []
+
+[122]
+File: imagens/cap07/Fig_13_PB_PE.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_13_PB_PE.jpg>
+
+Overfull \vbox (36.28094pt too high) has occurred while \output is active []
+
+[123]
+File: imagens/cap07/Fig_14_PI_RN.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_14_PI_RN.jpg>
+
+Overfull \vbox (20.30505pt too high) has occurred while \output is active []
+
+[124]
+File: imagens/cap07/Fig_15_SE_AC.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_15_SE_AC.jpg>
+
+Overfull \vbox (20.20049pt too high) has occurred while \output is active []
+
+[125]
+File: imagens/cap07/Fig_16_AP_AM.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_16_AP_AM.jpg>
+
+Overfull \vbox (17.748pt too high) has occurred while \output is active []
+
+[126]
+File: imagens/cap07/Fig_17_PA_RO.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_17_PA_RO.jpg>
+
+Overfull \vbox (27.06105pt too high) has occurred while \output is active []
+
+[127]
+File: imagens/cap07/Fig_18_RR_TO.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_18_RR_TO.jpg>
+
+Overfull \vbox (17.07875pt too high) has occurred while \output is active []
+
+[128]
+File: imagens/cap07/Fig_19_ES_MG.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_19_ES_MG.jpg>
+
+Overfull \vbox (24.12903pt too high) has occurred while \output is active []
+
+[129]
+File: imagens/cap07/Fig_20_RJ_SP.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_20_RJ_SP.jpg>
+
+Overfull \vbox (33.53416pt too high) has occurred while \output is active []
+
+[130]
+File: imagens/cap07/Fig_21_DF_GO.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_21_DF_GO.jpg>
+
+Overfull \vbox (29.84108pt too high) has occurred while \output is active []
+
+[131]
+File: imagens/cap07/Fig_22_MT_MS.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_22_MT_MS.jpg>
+
+Overfull \vbox (38.53525pt too high) has occurred while \output is active []
+
+[132]
+File: imagens/cap07/Fig_23_PR_SC.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_23_PR_SC.jpg>
+
+Overfull \vbox (27.91338pt too high) has occurred while \output is active []
+
+[133]
+File: imagens/cap07/Fig_24_RS_FN.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_24_RS_FN.jpg>
+
+Overfull \vbox (29.80177pt too high) has occurred while \output is active []
+
+[134]
+File: imagens/cap07/Fig_25_AB_MV.jpg Graphic file (type bmp)
+<imagens/cap07/Fig_25_AB_MV.jpg>
+
+Overfull \vbox (29.73633pt too high) has occurred while \output is active []
+
+[135]
 File: imagens/cap07/Figura_7.41.png Graphic file (type bmp)
 <imagens/cap07/Figura_7.41.png>
+[136]
 File: imagens/cap07/Figura_7.42.png Graphic file (type bmp)
 <imagens/cap07/Figura_7.42.png>
-[117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
-Overfull \hbox (2428.97643pt too wide) in alignment at lines 2522--2544
- [] [] [] [] 
+[137] [138] [139] [140] [141]
+Underfull \hbox (badness 10000) in paragraph at lines 2560--2561
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][][] [] [][][][][][][][] [][] [][][][][] [] [][][][][][] [][] [] [] [][][][][][][][] [] [][][][] [][]
  []
 
-[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2566--2567
+[] [] [][][] [] [][][][][] [] [][] [] [][][] [] [][] [] [][][][][][][][][][] [] [] [] [][][][] [] [][][][][][] [] [][][][][][][][][] [] [][][][][] [] [][][][][] [] [][][] [] [][][]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2572--2573
+[][][] [] [][][][][][][][] [] [][][] [][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][] [][][][][][][][][][][][][][][][][][][][][][][][] [] [][][]$[]
+ []
+
+[142]
+Underfull \hbox (badness 4981) in paragraph at lines 2576--2577
+\TU/lmr/m/n/10.95 Revista Brasileira de Zoologia 23(3): 865-869 []$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][][][] [] [][][][][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2588--2589
+[][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][]$[]
+ []
+
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 2594--2595
+[] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][] [] [][][][] [] [][][][]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2598--2599
+[]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2608--2609
+[][][][][][][][][][][][] [] [] [] [][][][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][] [] [][] []
+ []
+
+[144] [145]
+Underfull \hbox (badness 10000) in paragraph at lines 2632--2633
+\TU/lmr/m/n/10.95 em: []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 2634--2635
+[][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][]$[] \TU/lmr/m/n/10.95 Acesso em:
+ []
+
+[146]
+Underfull \hbox (badness 1033) in paragraph at lines 2654--2655
+[]\TU/lmr/m/n/10.95 Melo, A.V., Cintra, R., Santos, P.M.R.S., Tibúrcio, J.E.P. 2011. Reserva de
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 2654--2655
+\TU/lmr/m/n/10.95 ticas no Brasil. Conservation International. Belém. 406p. Disponível em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2654--2655
+[]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2664--2665
+[][][][][][][] [] [][][][][][][] [] [][] [] [][] [] [][] [] [][][][] [] [][][][][] [] [][] [] [][][][][][][] [] [][][][] [] [][] [] [][][][][] [] [][][][][] [] [][][]$[]
+ []
+
+[147]
+Underfull \hbox (badness 1824) in paragraph at lines 2668--2669
+[]\TU/lmr/m/n/10.95 Olmos, F., Silva e Silva, R. 2001. The avifauna of a southeastern Brazil-
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 2668--2669
+\TU/lmr/m/n/10.95 ian mangrove swamp. International Journal Of Ornithology 4(3/4): 135-205.
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 2668--2669
+\TU/lmr/m/n/10.95 Disponível em: []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][] [][] [][][][][] [][] [][] [] [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2668--2669
+[][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][] [] [] [] [][][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][][][] [] [][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2668--2669
+[][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [][] [][][][][][][][] [][] [][] [][] [] [][] [][][][][][][][][][][][] [][] [][][][][][][][][] [][] [][][][][][][][] [][]
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 2672--2673
+\TU/lmr/m/n/10.95 em: []$[][][][] [] [] [] [][][][][] [] [][] [] [][][] [] [][] [] [][][][] [] [][][][][] [] [][][][][][] [] [][][][][][] [] [][][][][][][][][][] [] [][][][][][][][][][][][] [] [] []
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 2684--2685
+[][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][]$[] \TU/lmr/m/n/10.95 Acesso em:
+ []
+
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 2692--2693
+\TU/lmr/m/n/10.95 em: []$[][][][] [] [] [] [][][][][][][][][][][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][] [] [][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 2702--2703
+[][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][]$[] \TU/lmr/m/n/10.95 Acesso em:
+ []
+
+[149]
+Underfull \hbox (badness 2707) in paragraph at lines 2706--2707
+[][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][]$[] \TU/lmr/m/n/10.95 Acesso em:
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 2712--2713
+[]\TU/lmr/m/n/10.95 Sousa, M.C., Fraga, R.T., Carlos, C.J. 2004. Seabirds records from Alagoas
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 2712--2713
+\TU/lmr/m/n/10.95 and Sergipe states, north-east Brazil. Cotinga 24: 112-114. Disponível em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2712--2713
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][] [] [][][][][][][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2714--2715
+[]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2716--2717
+[]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2722--2723
+[]$[][][][][] [] [] [] [][][][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][] []
+ []
+
+[150] [151]
 chapter 8.
-[163
+[152
 
 
 ]
 File: imagens/cap08/Figura_8.1ab.jpg Graphic file (type bmp)
 <imagens/cap08/Figura_8.1ab.jpg>
+[153] [154]
 File: imagens/cap08/Figura_8.2.jpg Graphic file (type bmp)
 <imagens/cap08/Figura_8.2.jpg>
 File: imagens/cap08/Figura_8.3.jpg Graphic file (type bmp)
 <imagens/cap08/Figura_8.3.jpg>
-[164] [165] [166] [167]
+[155] [156] [157]
 File: imagens/cap08/Figura_8.4.png Graphic file (type bmp)
 <imagens/cap08/Figura_8.4.png>
-[168] [169] [170]
+[158] [159]
 File: imagens/cap08/Figura_8.5.jpg Graphic file (type bmp)
 <imagens/cap08/Figura_8.5.jpg>
-
-Underfull \hbox (badness 10000) in paragraph at lines 2901--2901
+[160]
+Underfull \hbox (badness 10000) in paragraph at lines 2843--2843
   [][][][]$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][] [] [][][] [] [][][][][][][][][] [] [][][][][] [][] [][] [][] [][][][][][][][] [][] [][] [][] [][][][][][][][][][][][][] [][] [][][][][][][][][] [][] [][][][][][][] [][]
  []
 
-[171] [172]
+[161]
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <14.4> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 2908.
-[173] [174] [175] [176] [177] [178] [179] [180]
+(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 2850.
+[162] [163] [164] [165] [166] [167] [168] [169]
 File: imagens/cap08/Figura_8.6.jpg Graphic file (type bmp)
 <imagens/cap08/Figura_8.6.jpg>
-[181] [182] [183] [184] [185] [186] [187]
-Overfull \hbox (0.68102pt too wide) in paragraph at lines 2998--2998
+[170] [171] [172] [173] [174] [175] [176]
+Overfull \hbox (0.68102pt too wide) in paragraph at lines 2947--2947
 \TU/lmr/m/n/8 Oceânico)|  
  []
 
 
-Overfull \hbox (60.4225pt too wide) in alignment at lines 2995--3000
- [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (0.68102pt too wide) in paragraph at lines 3003--3003
+Overfull \hbox (0.68102pt too wide) in paragraph at lines 2952--2952
 \TU/lmr/m/n/8 Oceânico)|  
- []
-
-
-Overfull \hbox (60.4225pt too wide) in alignment at lines 3000--3005
- [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (60.4225pt too wide) in alignment at lines 3005--3007
- [] [] [] [] [] [] [] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 3009.
+(Font)              scaled to size 8.0pt on input line 2958.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 3009.
+(Font)              scaled to size 8.00073pt on input line 2958.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 3009.
+(Font)              scaled to size 7.99915pt on input line 2958.
 
-Overfull \hbox (60.4225pt too wide) in alignment at lines 3007--3011
- [] [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (24.90501pt too wide) in paragraph at lines 3012--3012
+Overfull \hbox (24.90501pt too wide) in paragraph at lines 2960--2960
 []|\TU/lmr/bx/it/8 Phoenicopterus 
  []
 
 
-Overfull \hbox (4.68102pt too wide) in paragraph at lines 3012--3012
+Overfull \hbox (4.68102pt too wide) in paragraph at lines 2960--2960
 []|\TU/lmr/bx/it/8 Flamingo- 
  []
 
 
-Overfull \hbox (24.90501pt too wide) in paragraph at lines 3013--3013
+Overfull \hbox (24.90501pt too wide) in paragraph at lines 2961--2961
 []|\TU/lmr/bx/it/8 Phoenicopterus 
  []
 
 
-Overfull \hbox (4.68102pt too wide) in paragraph at lines 3013--3013
+Overfull \hbox (4.68102pt too wide) in paragraph at lines 2961--2961
 []|\TU/lmr/bx/it/8 Flamingo- 
  []
 
 
-Overfull \hbox (5.705pt too wide) in paragraph at lines 3013--3013
+Overfull \hbox (5.705pt too wide) in paragraph at lines 2961--2961
 \TU/lmr/bx/it/8 americano|  
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3013--3013
+Overfull \hbox (2.785pt too wide) in paragraph at lines 2961--2961
 []|\TU/lmr/bx/it/8 Residente 
  []
 
 
-Overfull \hbox (17.097pt too wide) in paragraph at lines 3014--3014
+Overfull \hbox (17.097pt too wide) in paragraph at lines 2962--2962
 []|\TU/lmr/bx/it/8 Podicephorus 
  []
 
 
-Overfull \hbox (9.345pt too wide) in paragraph at lines 3014--3014
+Overfull \hbox (9.345pt too wide) in paragraph at lines 2962--2962
 []|\TU/lmr/bx/it/8 Mergulhão- 
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 2962--2962
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (4.233pt too wide) in paragraph at lines 2963--2963
+[]|\TU/lmr/bx/it/8 Batuiruçu|  
+ []
+
+
+Overfull \hbox (4.897pt too wide) in paragraph at lines 2964--2964
+\TU/lmr/bx/it/8 squatarola|  
+ []
+
+
+Overfull \hbox (7.54501pt too wide) in paragraph at lines 2964--2964
+[]|\TU/lmr/bx/it/8 Batuiruçu- 
+ []
+
+
+Overfull \hbox (8.18501pt too wide) in paragraph at lines 2966--2966
+[]|\TU/lmr/bx/it/8 Oreopholus 
+ []
+
+
+Overfull \hbox (5.13701pt too wide) in paragraph at lines 2966--2966
+\TU/lmr/bx/it/8 ferrugíneo|  
+ []
+
+
+Overfull \hbox (8.66501pt too wide) in paragraph at lines 2967--2967
+[]|\TU/lmr/bx/it/8 Charadrius 
+ []
+
+
+Overfull \hbox (8.66501pt too wide) in paragraph at lines 2968--2968
+[]|\TU/lmr/bx/it/8 Charadrius 
+ []
+
+
+Overfull \hbox (8.66501pt too wide) in paragraph at lines 2969--2969
+[]|\TU/lmr/bx/it/8 Charadrius 
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 2969--2969
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (8.66501pt too wide) in paragraph at lines 2970--2970
+[]|\TU/lmr/bx/it/8 Charadrius 
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 2970--2970
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (8.66501pt too wide) in paragraph at lines 2972--2972
+[]|\TU/lmr/bx/it/8 Charadrius 
+ []
+
+
+Overfull \hbox (21.24101pt too wide) in paragraph at lines 2972--2972
+\TU/lmr/bx/it/8 tral/Residente 
+ []
+
+
+Overfull \hbox (13.697pt too wide) in paragraph at lines 2973--2973
+[]|\TU/lmr/bx/it/8 Haematopus 
+ []
+
+
+Overfull \hbox (5.63301pt too wide) in paragraph at lines 2973--2973
+[]|\TU/lmr/bx/it/8 Residente, 
+ []
+
+
+Overfull \hbox (12.761pt too wide) in paragraph at lines 2974--2974
+[]|\TU/lmr/bx/it/8 Himantopus 
+ []
+
+
+Overfull \hbox (11.08101pt too wide) in paragraph at lines 2974--2974
+[]|\TU/lmr/bx/it/8 Pernilongo- 
+ []
+
+
+Overfull \hbox (5.63301pt too wide) in paragraph at lines 2974--2974
+[]|\TU/lmr/bx/it/8 Residente, 
+ []
+
+
+Overfull \hbox (12.761pt too wide) in paragraph at lines 2975--2975
+[]|\TU/lmr/bx/it/8 Himantopus 
+ []
+
+
+Overfull \hbox (11.08101pt too wide) in paragraph at lines 2975--2975
+[]|\TU/lmr/bx/it/8 Pernilongo- 
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 2975--2975
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (5.625pt too wide) in paragraph at lines 2976--2976
+[]|\TU/lmr/bx/it/8 Bartramia 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2976--2976
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.72101pt too wide) in paragraph at lines 2978--2978
+[]|\TU/lmr/bx/it/8 Numenius 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2978--2978
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2979--2979
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2981--2981
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2982--2982
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (5.729pt too wide) in paragraph at lines 2982--2982
+\TU/lmr/bx/it/8 pernilongo|  
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2984--2984
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2985--2985
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (19.281pt too wide) in paragraph at lines 2986--2986
+[]|\TU/lmr/bx/it/8 Maçariquinho|  
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2987--2987
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2988--2988
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (3.121pt too wide) in paragraph at lines 2988--2988
+\TU/lmr/bx/it/8 acanelado|  
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2990--2990
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2991--2991
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (7.73701pt too wide) in paragraph at lines 2991--2991
+\TU/lmr/bx/it/8 rasteirinho|  
+ []
+
+
+Overfull \hbox (18.72101pt too wide) in paragraph at lines 2992--2992
+[]|\TU/lmr/bx/it/8 Limnodromus 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2992--2992
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (8.585pt too wide) in paragraph at lines 2993--2993
+[]|\TU/lmr/bx/it/8 Phalaropus 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2994--2994
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2996--2996
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (12.817pt too wide) in paragraph at lines 2997--2997
+\TU/lmr/bx/it/8 melanoleuca|  
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2997--2997
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2998--2998
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (4.37701pt too wide) in paragraph at lines 2999--2999
+[]|\TU/lmr/bx/it/8 Maçarico- 
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3000--3000
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3000--3000
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3002--3002
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3002--3002
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3003--3003
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3003--3003
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3004--3004
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3004--3004
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3005--3005
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3005--3005
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (1.921pt too wide) in paragraph at lines 3005--3005
+\TU/lmr/bx/it/8 pomarino|  
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3006--3006
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3006--3006
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (2.30501pt too wide) in paragraph at lines 3006--3006
+\TU/lmr/bx/it/8 parasítico|  
+ []
+
+
+Overfull \hbox (12.457pt too wide) in paragraph at lines 3008--3008
+[]|\TU/lmr/bx/it/8 Stercorarius 
+ []
+
+
+Overfull \hbox (6.73701pt too wide) in paragraph at lines 3008--3008
+[]|\TU/lmr/bx/it/8 Mandrião- 
+ []
+
+
+Overfull \hbox (0.977pt too wide) in paragraph at lines 3008--3008
+\TU/lmr/bx/it/8 comprida|  
+ []
+
+
+Overfull \hbox (27.83301pt too wide) in paragraph at lines 3009--3009
+[]|\TU/lmr/bx/it/8 Chroicocephalus 
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3009--3009
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (27.83301pt too wide) in paragraph at lines 3010--3010
+[]|\TU/lmr/bx/it/8 Chroicocephalus 
+ []
+
+
+Overfull \hbox (19.80101pt too wide) in paragraph at lines 3010--3010
+\TU/lmr/bx/it/8 costa/interior|  
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3010--3010
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (14.01701pt too wide) in paragraph at lines 3011--3011
+[]|\TU/lmr/bx/it/8 Leucophaeus 
+ []
+
+
+Overfull \hbox (4.27301pt too wide) in paragraph at lines 3012--3013
+[]|\TU/lmr/bx/it/8 Incomum, 
  []
 
 
@@ -1777,53 +2346,43 @@ Overfull \hbox (2.785pt too wide) in paragraph at lines 3014--3014
  []
 
 
-Overfull \hbox (4.233pt too wide) in paragraph at lines 3015--3015
-[]|\TU/lmr/bx/it/8 Batuiruçu|  
- []
-
-
-Overfull \hbox (4.897pt too wide) in paragraph at lines 3016--3016
-\TU/lmr/bx/it/8 squatarola|  
- []
-
-
-Overfull \hbox (7.54501pt too wide) in paragraph at lines 3016--3016
-[]|\TU/lmr/bx/it/8 Batuiruçu- 
- []
-
-
-Overfull \hbox (8.18501pt too wide) in paragraph at lines 3018--3018
-[]|\TU/lmr/bx/it/8 Oreopholus 
- []
-
-
-Overfull \hbox (5.13701pt too wide) in paragraph at lines 3018--3018
-\TU/lmr/bx/it/8 ferrugíneo|  
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 3019--3019
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 3020--3020
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 3021--3021
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3021--3021
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3015--3015
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 3022--3022
-[]|\TU/lmr/bx/it/8 Charadrius 
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3016--3016
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3017--3017
+[]|\TU/lmr/bx/it/8 Residente|  
+ []
+
+
+Overfull \hbox (2.76901pt too wide) in paragraph at lines 3018--3018
+[]|\TU/lmr/bx/it/8 Rynchops 
+ []
+
+
+Overfull \hbox (5.63301pt too wide) in paragraph at lines 3018--3018
+[]|\TU/lmr/bx/it/8 Residente, 
+ []
+
+
+Overfull \hbox (15.63301pt too wide) in paragraph at lines 3020--3020
+[]|\TU/lmr/bx/it/8 Onychoprion 
+ []
+
+
+Overfull \hbox (10.07301pt too wide) in paragraph at lines 3020--3020
+[]|\TU/lmr/bx/it/8 Migratório, 
+ []
+
+
+Overfull \hbox (21.945pt too wide) in paragraph at lines 3021--3021
+\TU/lmr/bx/it/8 real/Residente 
  []
 
 
@@ -1832,778 +2391,493 @@ Overfull \hbox (2.785pt too wide) in paragraph at lines 3022--3022
  []
 
 
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 3024--3024
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (21.24101pt too wide) in paragraph at lines 3024--3024
-\TU/lmr/bx/it/8 tral/Residente 
- []
-
-
-Overfull \hbox (13.697pt too wide) in paragraph at lines 3025--3025
-[]|\TU/lmr/bx/it/8 Haematopus 
- []
-
-
-Overfull \hbox (5.63301pt too wide) in paragraph at lines 3025--3025
-[]|\TU/lmr/bx/it/8 Residente, 
- []
-
-
-Overfull \hbox (12.761pt too wide) in paragraph at lines 3026--3026
-[]|\TU/lmr/bx/it/8 Himantopus 
- []
-
-
-Overfull \hbox (11.08101pt too wide) in paragraph at lines 3026--3026
-[]|\TU/lmr/bx/it/8 Pernilongo- 
- []
-
-
-Overfull \hbox (5.63301pt too wide) in paragraph at lines 3026--3026
-[]|\TU/lmr/bx/it/8 Residente, 
- []
-
-
-Overfull \hbox (12.761pt too wide) in paragraph at lines 3027--3027
-[]|\TU/lmr/bx/it/8 Himantopus 
- []
-
-
-Overfull \hbox (11.08101pt too wide) in paragraph at lines 3027--3027
-[]|\TU/lmr/bx/it/8 Pernilongo- 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3027--3027
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (5.625pt too wide) in paragraph at lines 3028--3028
-[]|\TU/lmr/bx/it/8 Bartramia 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3028--3028
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.72101pt too wide) in paragraph at lines 3030--3030
-[]|\TU/lmr/bx/it/8 Numenius 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3030--3030
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3031--3031
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3033--3033
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3034--3034
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (5.729pt too wide) in paragraph at lines 3034--3034
-\TU/lmr/bx/it/8 pernilongo|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3036--3036
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3037--3037
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (19.281pt too wide) in paragraph at lines 3038--3038
-[]|\TU/lmr/bx/it/8 Maçariquinho|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3039--3039
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3040--3040
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (3.121pt too wide) in paragraph at lines 3040--3040
-\TU/lmr/bx/it/8 acanelado|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3042--3042
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3043--3043
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (7.73701pt too wide) in paragraph at lines 3043--3043
-\TU/lmr/bx/it/8 rasteirinho|  
- []
-
-
-Overfull \hbox (18.72101pt too wide) in paragraph at lines 3044--3044
-[]|\TU/lmr/bx/it/8 Limnodromus 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3044--3044
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (8.585pt too wide) in paragraph at lines 3045--3045
-[]|\TU/lmr/bx/it/8 Phalaropus 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3046--3046
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3048--3048
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (12.817pt too wide) in paragraph at lines 3049--3049
-\TU/lmr/bx/it/8 melanoleuca|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3049--3049
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3050--3050
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 3051--3051
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3052--3052
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3052--3052
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3054--3054
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3054--3054
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3055--3055
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3055--3055
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3056--3056
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3056--3056
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3057--3057
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3057--3057
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (1.921pt too wide) in paragraph at lines 3057--3057
-\TU/lmr/bx/it/8 pomarino|  
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3058--3058
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3058--3058
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (2.30501pt too wide) in paragraph at lines 3058--3058
-\TU/lmr/bx/it/8 parasítico|  
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3060--3060
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3060--3060
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (0.977pt too wide) in paragraph at lines 3060--3060
-\TU/lmr/bx/it/8 comprida|  
- []
-
-
-Overfull \hbox (27.83301pt too wide) in paragraph at lines 3061--3061
-[]|\TU/lmr/bx/it/8 Chroicocephalus 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3061--3061
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (27.83301pt too wide) in paragraph at lines 3062--3062
-[]|\TU/lmr/bx/it/8 Chroicocephalus 
- []
-
-
-Overfull \hbox (19.80101pt too wide) in paragraph at lines 3062--3062
-\TU/lmr/bx/it/8 costa/interior|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3062--3062
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (14.01701pt too wide) in paragraph at lines 3063--3063
-[]|\TU/lmr/bx/it/8 Leucophaeus 
- []
-
-
-Overfull \hbox (4.27301pt too wide) in paragraph at lines 3064--3065
-[]|\TU/lmr/bx/it/8 Incomum, 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3066--3066
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3067--3067
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3068--3068
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3069--3069
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.76901pt too wide) in paragraph at lines 3070--3070
-[]|\TU/lmr/bx/it/8 Rynchops 
- []
-
-
-Overfull \hbox (5.63301pt too wide) in paragraph at lines 3070--3070
-[]|\TU/lmr/bx/it/8 Residente, 
- []
-
-
-Overfull \hbox (15.63301pt too wide) in paragraph at lines 3072--3072
-[]|\TU/lmr/bx/it/8 Onychoprion 
- []
-
-
-Overfull \hbox (10.07301pt too wide) in paragraph at lines 3072--3072
-[]|\TU/lmr/bx/it/8 Migratório, 
- []
-
-
-Overfull \hbox (21.945pt too wide) in paragraph at lines 3073--3073
-\TU/lmr/bx/it/8 real/Residente 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3074--3074
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (0.54501pt too wide) in paragraph at lines 3075--3075
+Overfull \hbox (0.54501pt too wide) in paragraph at lines 3023--3023
 []|\TU/lmr/bx/it/8 Phaetusa 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3075--3075
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3023--3023
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (15.033pt too wide) in paragraph at lines 3076--3076
+Overfull \hbox (15.033pt too wide) in paragraph at lines 3024--3024
 []|\TU/lmr/bx/it/8 Gelochelidon 
  []
 
 
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3076--3076
+Overfull \hbox (16.985pt too wide) in paragraph at lines 3024--3024
 []|\TU/lmr/bx/it/8 Parcialmente 
  []
 
 
-Overfull \hbox (2.40901pt too wide) in paragraph at lines 3080--3080
+Overfull \hbox (2.40901pt too wide) in paragraph at lines 3028--3028
 []|\TU/lmr/bx/it/8 Oceânico, 
  []
 
 
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3081--3081
+Overfull \hbox (16.985pt too wide) in paragraph at lines 3029--3029
 []|\TU/lmr/bx/it/8 Parcialmente 
  []
 
 
-Overfull \hbox (23.369pt too wide) in paragraph at lines 3081--3081
+Overfull \hbox (23.369pt too wide) in paragraph at lines 3029--3029
 \TU/lmr/bx/it/8 RS/Residente)|  
  []
 
 
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3082--3082
+Overfull \hbox (16.985pt too wide) in paragraph at lines 3030--3030
 []|\TU/lmr/bx/it/8 Parcialmente 
  []
 
 
-Overfull \hbox (7.705pt too wide) in paragraph at lines 3084--3084
+Overfull \hbox (7.705pt too wide) in paragraph at lines 3032--3032
 []|\TU/lmr/bx/it/8 Thalasseus 
  []
 
 
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3084--3084
+Overfull \hbox (16.985pt too wide) in paragraph at lines 3032--3032
 []|\TU/lmr/bx/it/8 Parcialmente 
  []
 
 
-Overfull \hbox (7.705pt too wide) in paragraph at lines 3085--3085
+Overfull \hbox (7.705pt too wide) in paragraph at lines 3033--3033
 []|\TU/lmr/bx/it/8 Thalasseus 
  []
 
 
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3085--3085
+Overfull \hbox (16.985pt too wide) in paragraph at lines 3033--3033
 []|\TU/lmr/bx/it/8 Parcialmente 
  []
 
 
-Overfull \hbox (1.60901pt too wide) in paragraph at lines 3086--3086
+Overfull \hbox (1.60901pt too wide) in paragraph at lines 3034--3034
 []|\TU/lmr/bx/it/8 Phaethon 
  []
 
 
-Overfull \hbox (1.57701pt too wide) in paragraph at lines 3086--3086
+Overfull \hbox (1.57701pt too wide) in paragraph at lines 3034--3034
 \TU/lmr/bx/it/8 aethereus|  
  []
 
 
-Overfull \hbox (2.473pt too wide) in paragraph at lines 3086--3086
+Overfull \hbox (2.473pt too wide) in paragraph at lines 3034--3034
 \TU/lmr/bx/it/8 Noronha)|  
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3086--3086
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3034--3034
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (1.60901pt too wide) in paragraph at lines 3087--3087
+Overfull \hbox (1.60901pt too wide) in paragraph at lines 3035--3035
 []|\TU/lmr/bx/it/8 Phaethon 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3087--3087
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3035--3035
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (7.841pt too wide) in paragraph at lines 3088--3088
+Overfull \hbox (7.841pt too wide) in paragraph at lines 3036--3036
 []|\TU/lmr/bx/it/8 Spheniscus 
  []
 
 
-Overfull \hbox (1.145pt too wide) in paragraph at lines 3088--3088
+Overfull \hbox (1.145pt too wide) in paragraph at lines 3036--3036
 []|\TU/lmr/bx/it/8 Pinguim- 
  []
 
 
-Overfull \hbox (5.113pt too wide) in paragraph at lines 3088--3088
+Overfull \hbox (5.113pt too wide) in paragraph at lines 3036--3036
 \TU/lmr/bx/it/8 magalhães|  
  []
 
 
-Overfull \hbox (1.66501pt too wide) in paragraph at lines 3088--3089
+Overfull \hbox (1.66501pt too wide) in paragraph at lines 3036--3037
 []|\TU/lmr/bx/it/8 Alteração 
  []
 
 
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3090--3090
+Overfull \hbox (3.02501pt too wide) in paragraph at lines 3038--3038
 []|\TU/lmr/bx/it/8 Diomedea 
  []
 
 
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3091--3091
+Overfull \hbox (3.02501pt too wide) in paragraph at lines 3039--3039
 []|\TU/lmr/bx/it/8 Diomedea 
  []
 
 
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3092--3092
+Overfull \hbox (3.02501pt too wide) in paragraph at lines 3040--3040
 []|\TU/lmr/bx/it/8 Diomedea 
  []
 
 
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3093--3093
+Overfull \hbox (3.02501pt too wide) in paragraph at lines 3041--3041
 []|\TU/lmr/bx/it/8 Diomedea 
  []
 
 
-Overfull \hbox (6.113pt too wide) in paragraph at lines 3094--3094
+Overfull \hbox (6.113pt too wide) in paragraph at lines 3042--3042
 []|\TU/lmr/bx/it/8 Phoebetria 
  []
 
 
-Overfull \hbox (16.097pt too wide) in paragraph at lines 3096--3096
+Overfull \hbox (16.097pt too wide) in paragraph at lines 3044--3044
 []|\TU/lmr/bx/it/8 Thalassarche 
  []
 
 
-Overfull \hbox (9.977pt too wide) in paragraph at lines 3096--3096
+Overfull \hbox (9.977pt too wide) in paragraph at lines 3044--3044
 \TU/lmr/bx/it/8 chlororhyn- 
  []
 
 
-Overfull \hbox (16.097pt too wide) in paragraph at lines 3097--3097
+Overfull \hbox (16.097pt too wide) in paragraph at lines 3045--3045
 []|\TU/lmr/bx/it/8 Thalassarche 
  []
 
 
-Overfull \hbox (12.921pt too wide) in paragraph at lines 3097--3097
+Overfull \hbox (12.921pt too wide) in paragraph at lines 3045--3045
 \TU/lmr/bx/it/8 melanophris|  
  []
 
 
-Overfull \hbox (13.401pt too wide) in paragraph at lines 3097--3097
+Overfull \hbox (13.401pt too wide) in paragraph at lines 3045--3045
 \TU/lmr/bx/it/8 sobrancelha- 
  []
 
 
-Overfull \hbox (2.281pt too wide) in paragraph at lines 3100--3100
+Overfull \hbox (2.281pt too wide) in paragraph at lines 3048--3048
 []|\TU/lmr/bx/it/8 Oceanites 
  []
 
 
-Overfull \hbox (8.27301pt too wide) in paragraph at lines 3102--3102
+Overfull \hbox (8.27301pt too wide) in paragraph at lines 3050--3050
 []|\TU/lmr/bx/it/8 Hydrobates 
  []
 
 
-Overfull \hbox (14.177pt too wide) in paragraph at lines 3103--3103
+Overfull \hbox (14.177pt too wide) in paragraph at lines 3051--3051
 []|\TU/lmr/bx/it/8 Macronectes 
  []
 
 
-Overfull \hbox (14.177pt too wide) in paragraph at lines 3104--3104
+Overfull \hbox (14.177pt too wide) in paragraph at lines 3052--3052
 []|\TU/lmr/bx/it/8 Macronectes 
  []
 
 
-Overfull \hbox (1.481pt too wide) in paragraph at lines 3105--3105
+Overfull \hbox (1.481pt too wide) in paragraph at lines 3053--3053
 []|\TU/lmr/bx/it/8 Fulmarus 
  []
 
 
-Overfull \hbox (9.889pt too wide) in paragraph at lines 3105--3105
+Overfull \hbox (9.889pt too wide) in paragraph at lines 3053--3053
 \TU/lmr/bx/it/8 glacialoides|  
  []
 
 
-Overfull \hbox (2.561pt too wide) in paragraph at lines 3105--3105
+Overfull \hbox (2.561pt too wide) in paragraph at lines 3053--3053
 []|\TU/lmr/bx/it/8 Pardelão- 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3108--3108
+Overfull \hbox (10.57701pt too wide) in paragraph at lines 3056--3056
 []|\TU/lmr/bx/it/8 Pterodroma 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3109--3109
+Overfull \hbox (10.57701pt too wide) in paragraph at lines 3057--3057
 []|\TU/lmr/bx/it/8 Pterodroma 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3110--3110
+Overfull \hbox (10.57701pt too wide) in paragraph at lines 3058--3058
 []|\TU/lmr/bx/it/8 Pterodroma 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3111--3111
+Overfull \hbox (10.57701pt too wide) in paragraph at lines 3059--3059
 []|\TU/lmr/bx/it/8 Pterodroma 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3112--3112
+Overfull \hbox (10.57701pt too wide) in paragraph at lines 3060--3060
 []|\TU/lmr/bx/it/8 Pterodroma 
  []
 
 
-Overfull \hbox (3.817pt too wide) in paragraph at lines 3112--3112
+Overfull \hbox (3.817pt too wide) in paragraph at lines 3060--3060
 \TU/lmr/bx/it/8 Trindade) 
  []
 
 
-Overfull \hbox (6.12901pt too wide) in paragraph at lines 3114--3114
+Overfull \hbox (6.12901pt too wide) in paragraph at lines 3062--3062
 []|\TU/lmr/bx/it/8 Pachyptila 
  []
 
 
-Overfull \hbox (6.12901pt too wide) in paragraph at lines 3115--3115
+Overfull \hbox (6.12901pt too wide) in paragraph at lines 3063--3063
 []|\TU/lmr/bx/it/8 Pachyptila 
  []
 
 
-Overfull \hbox (7.77701pt too wide) in paragraph at lines 3117--3117
+Overfull \hbox (7.77701pt too wide) in paragraph at lines 3065--3065
 []|\TU/lmr/bx/it/8 Procellaria 
  []
 
 
-Overfull \hbox (7.77701pt too wide) in paragraph at lines 3118--3118
+Overfull \hbox (7.77701pt too wide) in paragraph at lines 3066--3066
 []|\TU/lmr/bx/it/8 Procellaria 
  []
 
 
-Overfull \hbox (9.393pt too wide) in paragraph at lines 3120--3120
+Overfull \hbox (9.393pt too wide) in paragraph at lines 3068--3068
 []|\TU/lmr/bx/it/8 Calonectris 
  []
 
 
-Overfull \hbox (9.393pt too wide) in paragraph at lines 3121--3121
+Overfull \hbox (9.393pt too wide) in paragraph at lines 3069--3069
 []|\TU/lmr/bx/it/8 Calonectris 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3128--3128
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3076--3076
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (3.01701pt too wide) in paragraph at lines 3128--3129
+Overfull \hbox (3.01701pt too wide) in paragraph at lines 3076--3077
 []|\TU/lmr/bx/it/8 Endêmico 
  []
 
 
-Overfull \hbox (2.88101pt too wide) in paragraph at lines 3128--3129
+Overfull \hbox (2.88101pt too wide) in paragraph at lines 3076--3077
 \TU/lmr/bx/it/8 Trindade, 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3129--3129
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3077--3077
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3130--3130
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3078--3078
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (3.01701pt too wide) in paragraph at lines 3130--3131
+Overfull \hbox (3.01701pt too wide) in paragraph at lines 3078--3079
 []|\TU/lmr/bx/it/8 Endêmico 
  []
 
 
-Overfull \hbox (2.88101pt too wide) in paragraph at lines 3130--3131
+Overfull \hbox (2.88101pt too wide) in paragraph at lines 3078--3079
 \TU/lmr/bx/it/8 Trindade, 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3132--3132
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3080--3080
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3133--3133
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3081--3081
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3134--3134
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3082--3082
 []|\TU/lmr/bx/it/8 Residente|  
  []
 
 
-Overfull \hbox (19.48901pt too wide) in paragraph at lines 3135--3135
+Overfull \hbox (19.48901pt too wide) in paragraph at lines 3083--3083
 []|\TU/lmr/bx/it/8 Nannopterum 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3135--3135
+Overfull \hbox (2.785pt too wide) in paragraph at lines 3083--3083
 []|\TU/lmr/bx/it/8 Residente 
  []
 
-
-Overfull \hbox (60.4225pt too wide) in alignment at lines 3011--3136
- [] [] [] [] [] [] [] [] 
+[177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191]
+Underfull \hbox (badness 2951) in paragraph at lines 3093--3094
+\TU/lmr/m/n/10.95 Disponível em: []$[][][][] [] [] [] [][][][][][][][][] [] [][][] [] [][] [] [][] [][] [][][][][][][] [] [][][][][][][] [] [][][][] [] [][] [] [][] [] [][][][][][][] [][]
  []
 
-[188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208]
+
+Underfull \hbox (badness 10000) in paragraph at lines 3105--3106
+[] [] [][][] [] [][][][] [] [][][] [] [][][][][] [] [][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3111--3112
+[][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][] [] [] [] [][][][][] [] [][] [] [][][][][][][][][][][][] [] [][] [] [][][][] [] [][][][][][][][][][][] []
+ []
+
+[192]
+Underfull \hbox (badness 3323) in paragraph at lines 3124--3125
+\TU/lmr/m/n/10.95 tracks for the Ascension Frigatebird \TU/lmr/m/it/10.95 Fregata aquila \TU/lmr/m/n/10.95 highlight the importance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3124--3125
+[] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][] [] [][][][][] [][] [][][][][][][][][][][] [] [][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3124--3125
+[][][] [] [][][] [] [][][][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][] [] [][][][][][] [] [][][][][][][][][] [] [][][] [] [][][][][][][][][][] [] [][] []
+ []
+
+[193]
+Underfull \hbox (badness 10000) in paragraph at lines 3138--3139
+[]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][][][][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3138--3139
+[][][][][][][][] [] [][][][] [] [][][][][] [] [][] [] [][][] [] [][][][][][][] [] [][][][] [] [][] [] [][][] [] [][][][][] [] [][][] [] [][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 3138--3139
+[][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][][][]$[] \TU/lmr/m/n/10.95 Acesso em:
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 3144--3145
+[]\TU/lmr/m/n/10.95 EPE (Empresa de Pesquisa Energética). 2019. Roadmap Eólica Offshore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3144--3145
+[][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] [][] [][][] [] [][][][][][][] [] [][][][][][] [] [][][][][][][][] [] [][][] []
+ []
+
+[194]
+Underfull \hbox (badness 10000) in paragraph at lines 3170--3171
+\TU/lmr/m/n/10.95 em: []$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][] [] [][][] [] [][][][][][][][][] [] [][][][][] [][] [][] [][] [][][][][][][][] [][] [][] [][] [][][][][][][][][][][][][] [][]
+ []
+
+[195]
+Underfull \hbox (badness 1675) in paragraph at lines 3182--3183
+\TU/lmr/m/n/10.95 tribuição, abundância e sazonalidade de \TU/lmr/m/it/10.95 Leucophaeus atricilla \TU/lmr/m/n/10.95 (Charadriiformes:
+ []
+
+[196] [197]
+Underfull \hbox (badness 10000) in paragraph at lines 3236--3237
+\TU/lmr/m/n/10.95 em: []$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][] [] [][][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][] [][]
+ []
+
+[198] [199]
 chapter 9.
-[209
+[200
 
 
-] [210]
-File: imagens/cap09/Figura_9.1.png Graphic file (type bmp)
-<imagens/cap09/Figura_9.1.png>
-File: imagens/cap09/Figura_9.2.png Graphic file (type bmp)
-<imagens/cap09/Figura_9.2.png>
-File: imagens/cap09/Figura_9.3.png Graphic file (type bmp)
-<imagens/cap09/Figura_9.3.png>
-[211] [212] [213] [214]
+] [201]
+File: imagens/cap09/Figura_9.1.jpg Graphic file (type bmp)
+<imagens/cap09/Figura_9.1.jpg>
+File: imagens/cap09/Figura_9.2.jpg Graphic file (type bmp)
+<imagens/cap09/Figura_9.2.jpg>
+[202]
+File: imagens/cap09/Figura_9.3.jpeg Graphic file (type bmp)
+<imagens/cap09/Figura_9.3.jpeg>
+[203] [204]
 File: imagens/cap09/Figura_9.5.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.5.png>
-
-LaTeX Warning: Float too large for page by 35.97104pt on input line 3383.
-
+[205]
 File: imagens/cap09/Figura_9.6.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.6.png>
+[206]
+Overfull \vbox (8.87193pt too high) has occurred while \output is active []
 
-LaTeX Warning: Float too large for page by 47.37787pt on input line 3392.
-
+[207]
 File: imagens/cap09/Figura_9.7.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.7.png>
 
-LaTeX Warning: Float too large for page by 40.03294pt on input line 3401.
+Overfull \vbox (2.00961pt too high) has occurred while \output is active []
 
+[208]
 File: imagens/cap09/Figura_9.8.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.8.png>
-
-LaTeX Warning: Float too large for page by 33.99205pt on input line 3410.
-
 File: imagens/cap09/Figura_9.9.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.9.png>
-
-LaTeX Warning: Float too large for page by 28.42398pt on input line 3419.
-
+[209]
 File: imagens/cap09/Figura_9.10.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.10.png>
+[210]
+Overfull \vbox (2.541pt too high) has occurred while \output is active []
 
-LaTeX Warning: Float too large for page by 40.61853pt on input line 3428.
-
+[211]
 File: imagens/cap09/Figura_9.11.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.11.png>
 
-LaTeX Warning: Float too large for page by 40.61853pt on input line 3437.
+Overfull \vbox (2.541pt too high) has occurred while \output is active []
 
+[212]
 File: imagens/cap09/Figura_9.12.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.12.png>
-
-LaTeX Warning: Float too large for page by 35.7526pt on input line 3446.
-
 File: imagens/cap09/Figura_9.13.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.13.png>
-
-LaTeX Warning: Float too large for page by 37.74239pt on input line 3455.
-
+[213]
 File: imagens/cap09/Figura_9.14.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.14.png>
+[214]
+Overfull \vbox (2.00961pt too high) has occurred while \output is active []
 
-LaTeX Warning: Float too large for page by 40.03294pt on input line 3464.
-
+[215]
 File: imagens/cap09/Figura_9.15.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.15.png>
-
-LaTeX Warning: Float too large for page by 35.49347pt on input line 3473.
-
 File: imagens/cap09/Figura_9.16.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.16.png>
-
-LaTeX Warning: Float too large for page by 37.44566pt on input line 3482.
-
+[216]
 File: imagens/cap09/Figura_9.17.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.17.png>
+[217]
+Overfull \vbox (3.98059pt too high) has occurred while \output is active []
 
-LaTeX Warning: Float too large for page by 42.1643pt on input line 3491.
+[218] [219]
+Underfull \hbox (badness 1635) in paragraph at lines 3470--3471
+\TU/lmr/m/n/10.95 2017. Diretrizes para estudos de impacto de parques eólicos sobre morcegos
+ []
 
-[215] [216] [217] [218] [219] [220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230] [231
+[220] [221
 
 
-] [232] [233] [234] [235]
-Overfull \hbox (32.53578pt too wide) in alignment at lines 3752--3765
+] [222] [223] [224] [225] [226]
+Overfull \hbox (32.53578pt too wide) in alignment at lines 3733--3746
  [] [] 
  []
 
-[236] [237
+[227
 
 
-]
+] [228
+
+
+] [229
+
+
+] [230]
 No file rel_mig_cemave4.bbl.
-[238] (./rel_mig_cemave4.aux)
+[231] (./rel_mig_cemave4.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34626 strings out of 478132
- 720251 string characters out of 5851236
- 1454260 words of memory out of 5000000
- 54577 multiletter control sequences out of 15000+600000
- 479765 words of font info for 117 fonts, out of 8000000 for 9000
+ 34392 strings out of 478126
+ 711901 string characters out of 5851118
+ 1458090 words of memory out of 5000000
+ 54390 multiletter control sequences out of 15000+600000
+ 479773 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,14n,121p,10638b,692s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,14n,121p,10638b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on rel_mig_cemave4.pdf (239 pages).
+Output written on rel_mig_cemave4.pdf (232 pages).

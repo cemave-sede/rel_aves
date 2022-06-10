@@ -19,6 +19,7 @@ description: "Relatório de Áreas de Concentração de Aves Migratórias no Bra
 
 
 
+
 # Apresentação {- #apresentacao} 
 
 <a href="https://cemave-sede.github.io/painel-aves-migratorias/#vis%C3%A3o-geral"><img src="imagens/capa/capafinal.png" width="500" height="675" alt="painel do relatorio" align="right" style="margin: 0 0 0 0" /></a> O Brasil é um país megadiverso que abriga mais de 13% da riqueza de espécies do globo. É o terceiro país em número de espécies de aves. Das 1971 espécies atualmente registradas pelo Comitê Brasileiro de Registros Ornitológicos, pouco mais de 10% são atualmente definidas como migratórias, mas este número ainda pode aumentar conforme cresça o conhecimento sobre o grupo.  
@@ -29,7 +30,7 @@ Como esperado, o Brasil é signatário de acordos internacionais relacionados à
 
 Apesar de todos esses instrumentos voltados para a conservação das espécies migratórias, há uma redução drástica e muitas vezes irreversível de suas áreas críticas de alimentação, reprodução e descanso. Mesmo quando a área crítica não é perdida por completo, ela pode vir a sofrer tal degradação ambiental que seu uso pelas espécies migratórias mais sensíveis se torna inviável. Neste sentido, é importante reconhecer estas áreas críticas e envidar esforços para o uso sustentável desses espaços e seus recursos.  
 
-A implantação de parques eólicos têm contribuído cada vez mais para a formação de uma matriz energética nacional mais limpa e renovável. A geração de energia a partir dos ventos é considerada de baixo impacto ao meio ambiente, mas pode representar uma ameaça a grupos específicos como aves e morcegos. Nessa perspectiva, o Conselho Nacional do Meio Ambiente (CONAMA) publicou a Resolução n° 462, de 24 de julho de 2014, estabelecendo os procedimentos para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte eólica em superfície terrestre (*onshore*), no território brasileiro. Essa resolução prevê que o órgão licenciador deve exigir estudos e relatório de impacto ambiental e realizar audiências públicas quando o empreendimento estiver localizado em áreas de concentração ou rota de aves migratórias, aqui chamadas de Áreas de Concentração para Aves Migratórias, cabendo ao ICMBio/CEMAVE indicá-las, em território nacional, por meio de um relatório, sendo essa sua quarta edição.  
+A implantação de parques eólicos têm contribuído cada vez mais para a formação de uma matriz energética nacional mais limpa e renovável. A geração de energia a partir dos ventos é considerada de baixo impacto ao meio ambiente, mas pode representar uma ameaça a grupos específicos como aves e morcegos. Nessa perspectiva, o Conselho Nacional do Meio Ambiente (CONAMA) publicou a Resolução n° 462, de 24 de julho de 2014, estabelecendo os procedimentos para o licenciamento ambiental de empreendimentos de geração de energia elétrica a partir de fonte eólica em superfície terrestre (*onshore*), no território brasileiro. Essa resolução prevê que o órgão licenciador deve exigir estudos e relatório de impacto ambiental e realizar audiências públicas quando o empreendimento estiver localizado em áreas de concentração ou rota de aves migratórias, aqui chamadas de Áreas de Concentração de Aves Migratórias, cabendo ao ICMBio/CEMAVE indicá-las, em território nacional, por meio de um relatório, sendo essa sua quarta edição.  
 
 A sua elaboração foi baseada em dados e informações disponíveis na literatura científica, em bancos de dados abertos, no processo de avaliação do estado de conservação da avifauna brasileira, nos Planos de Ação Nacionais, nos registros de anilhamento do Sistema Nacional de Anilhamento de Aves Silvestres (SNA) e em consulta *on-line* direcionada à comunidade de ornitólogos e na priorização espacial desses registros.  
 
@@ -123,7 +124,7 @@ Fernando Farias (*Amazona pretrei*)\
 <br>
 
 
-Relatório de áreas de concentração de aves migratórias no Brasil. Cabeelo, PB: CEMAVE/ICMBio. 2022. 4ª edição
+Relatório de áreas de concentração de aves migratórias no Brasil. Cabedelo, PB: CEMAVE/ICMBio. 2022. 4ª edição
 
 ISSN: 2446-9750 (versão *on-line*)
 
