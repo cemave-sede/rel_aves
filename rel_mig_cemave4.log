@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.9)  10 JUN 2022 12:50
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.9)  11 JUN 2022 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1554,13 +1554,13 @@ LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <20.74> not available
 [79
 
 
-]
+] [80]
 File: imagens/cap06/Figura_6.1.jpg Graphic file (type bmp)
 <imagens/cap06/Figura_6.1.jpg>
-[80]
+[81]
 File: imagens/cap06/Figura_6.2.jpg Graphic file (type bmp)
 <imagens/cap06/Figura_6.2.jpg>
-[81] [82]
+[82]
 File: imagens/cap06/Figura_6.3ab.jpg Graphic file (type bmp)
 <imagens/cap06/Figura_6.3ab.jpg>
 [83]
@@ -1633,7 +1633,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2214--2215
 File: imagens/cap07/Figura_7.8.jpg Graphic file (type bmp)
 <imagens/cap07/Figura_7.8.jpg>
 
-Underfull \hbox (badness 1577) in paragraph at lines 2222--2222
+Underfull \hbox (badness 1117) in paragraph at lines 2222--2222
 [][][]\TU/lmr/m/n/10.95 Bando de maçarico-de-papo-vermelho (\TU/lmr/m/it/10.95 Calidris canutus\TU/lmr/m/n/10.95 ) no Balneário
  []
 
@@ -2847,21 +2847,29 @@ Underfull \hbox (badness 1635) in paragraph at lines 3470--3471
 \TU/lmr/m/n/10.95 2017. Diretrizes para estudos de impacto de parques eólicos sobre morcegos
  []
 
-[220] [221
+[220]
+chapter A.
+[221
 
 
 ] [222] [223] [224] [225] [226]
-Overfull \hbox (32.53578pt too wide) in alignment at lines 3733--3746
+chapter B.
+
+Overfull \hbox (32.53578pt too wide) in alignment at lines 3735--3748
  [] [] 
  []
 
 [227
 
 
-] [228
+]
+chapter C.
+[228
 
 
-] [229
+]
+chapter D.
+[229
 
 
 ] [230]
@@ -2873,8 +2881,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  34392 strings out of 478126
- 711901 string characters out of 5851118
- 1458090 words of memory out of 5000000
+ 711996 string characters out of 5851118
+ 1457103 words of memory out of 5000000
  54390 multiletter control sequences out of 15000+600000
  479773 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

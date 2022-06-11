@@ -127,3 +127,7 @@ métodos
 resultados-2
 considerações-finais
 referências-bibliográficas-8
+a---lista-de-aves-migratórias
+b---critérios-dos-escores-de-vulnerabilidade
+c---parâmetros-do-zonation
+d---normas-e-diretrizes

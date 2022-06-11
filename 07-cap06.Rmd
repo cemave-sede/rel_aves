@@ -123,7 +123,7 @@ Os protocolos empregados para o monitoramento da ocorrência e uso do espaço po
 
 </br>
 
-```{r 20, echo = FALSE, out.width = '75%', fig.align="center", fig.pos = 'H', fig.cap = 'Captura por rede de neblina; B. Busca ativa por aves mortas por colisão e eletroplessão. (Fotos: Emanuel Sousa e Flávia Regina Domingos)'}
+```{r 20, echo = FALSE, out.width = '75%', fig.align="center", fig.pos = 'H', fig.cap = 'A. Captura por rede de neblina; B. Busca ativa por aves mortas por colisão e eletroplessão. (Fotos: Emanuel Sousa e Flávia Regina Domingos)'}
 
 knitr::include_graphics("imagens/cap06/Figura_6.3ab.jpg")
 
