@@ -329,7 +329,7 @@ knitr::include_graphics("imagens/cap07/Figura_7.5.jpg")
 
 ```
  
-(ref:long4) Colônia reprodutiva de *Thalasseus acuflavidus* na Ilha Escalvada, ES. Foto César Musso
+(ref:long4) Colônia reprodutiva de *Thalasseus acuflavidus* na Ilha Escalvada, ES. Foto: César Musso
 
 <br>
 

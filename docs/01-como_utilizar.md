@@ -1,4 +1,7 @@
+
 # Como utilizar essa publicação {- #como-utilizar}  
+
+
 
 Este documento atende à Resolução Conama nº 462, de 24 de julho de 2014, que atribui ao Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio a  responsabilidade pela publicação de um relatório apresentando as áreas regulares de rota, pouso, descanso, alimentação e reprodução de aves migratórias. Estas áreas, aqui tratadas por “Áreas de Concentração de Aves Migratórias”, estão representadas na Figura 7.10 e os seus respectivos arquivos com sua localização geográfica precisa estão [disponíveis para *download* em formato .shp](https://www.icmbio.gov.br/cemave/destaques-e-noticias/240-cemave-publica-relatorio-sobre-rotas-de-aves-migratorias.html). Este relatório também pode ser encontrado no [Portal do ICMBio](https://www.icmbio.gov.br/portal/) na *internet* e no [painel *on-line*](https://cemave-sede.github.io/painel-aves-migratorias/#vis%C3%A3o-geral) criado especificamente para o compartilhamento de seu conteúdo. As áreas representadas estão sujeitas às obrigações legais estabelecidas pela resolução acima citada.  
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.9)  11 JUN 2022 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.9)  17 JUN 2022 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -863,12 +863,6 @@ LaTeX Warning: Label `tab:tab07' multiply defined.
 
 LaTeX Warning: Label `tab:tab07' multiply defined.
 
-
-LaTeX Warning: Label `tab:tab07' multiply defined.
-
-
-LaTeX Warning: Label `tab:tab07' multiply defined.
-
 )
 \openout1 = `rel_mig_cemave4.aux'.
 
@@ -1187,54 +1181,54 @@ Overfull \hbox (51.80826pt too wide) in paragraph at lines 119--119
 
 ] (./rel_mig_cemave4.toc
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 7.
+(Font)              scaled to size 7.665pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 7.
+(Font)              scaled to size 5.475pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 7.
+(Font)              scaled to size 10.95099pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 7.
+(Font)              scaled to size 7.66568pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 7.
+(Font)              scaled to size 5.4755pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 7.
+(Font)              scaled to size 10.94882pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 7.
+(Font)              scaled to size 7.66417pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 7.
+(Font)              scaled to size 5.47441pt on input line 4.
 LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 35.
+(Font)              Font shape `TU/lmss/bx/sl' tried instead on input line 32.
 [2
 
 
 ]
-Overfull \hbox (1.09497pt too wide) detected at line 49
+Overfull \hbox (1.09497pt too wide) detected at line 46
  []\TU/lmss/bx/n/10.95 153
  []
 
 
-Overfull \hbox (1.09497pt too wide) detected at line 55
- []\TU/lmss/bx/n/10.95 201
+Overfull \hbox (1.09497pt too wide) detected at line 52
+ []\TU/lmss/bx/n/10.95 199
  []
 
 
-Overfull \hbox (1.09497pt too wide) detected at line 61
- []\TU/lmss/bx/n/10.95 222
+Overfull \hbox (1.09497pt too wide) detected at line 57
+ []\TU/lmss/bx/n/10.95 220
  []
 
 
-Overfull \hbox (1.09497pt too wide) detected at line 62
+Overfull \hbox (1.09497pt too wide) detected at line 58
+ []\TU/lmss/bx/n/10.95 226
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 59
+ []\TU/lmss/bx/n/10.95 227
+ []
+
+
+Overfull \hbox (1.09497pt too wide) detected at line 60
  []\TU/lmss/bx/n/10.95 228
- []
-
-
-Overfull \hbox (1.09497pt too wide) detected at line 63
- []\TU/lmss/bx/n/10.95 229
- []
-
-
-Overfull \hbox (1.09497pt too wide) detected at line 64
- []\TU/lmss/bx/n/10.95 230
  []
 
 )
@@ -1925,967 +1919,321 @@ LaTeX Font Info:    Font shape `TU/lmss/bx/it' in size <14.4> not available
 File: imagens/cap08/Figura_8.6.jpg Graphic file (type bmp)
 <imagens/cap08/Figura_8.6.jpg>
 [170] [171] [172] [173] [174] [175] [176]
-Overfull \hbox (0.68102pt too wide) in paragraph at lines 2947--2947
-\TU/lmr/m/n/8 Oceânico)|  
+Overfull \hbox (0.8228pt too wide) in paragraph at lines 2947--2947
+ []|\TU/lmr/m/n/9 Ameaça 
  []
 
 
-Overfull \hbox (0.68102pt too wide) in paragraph at lines 2952--2952
-\TU/lmr/m/n/8 Oceânico)|  
+Overfull \hbox (36.24884pt too wide) in alignment at lines 2944--2949
+ [] [] [] [] [] [] [] [] 
  []
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 2958.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 2958.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 2958.
-
-Overfull \hbox (24.90501pt too wide) in paragraph at lines 2960--2960
-[]|\TU/lmr/bx/it/8 Phoenicopterus 
- []
-
-
-Overfull \hbox (4.68102pt too wide) in paragraph at lines 2960--2960
-[]|\TU/lmr/bx/it/8 Flamingo- 
- []
-
-
-Overfull \hbox (24.90501pt too wide) in paragraph at lines 2961--2961
-[]|\TU/lmr/bx/it/8 Phoenicopterus 
- []
-
-
-Overfull \hbox (4.68102pt too wide) in paragraph at lines 2961--2961
-[]|\TU/lmr/bx/it/8 Flamingo- 
- []
-
-
-Overfull \hbox (5.705pt too wide) in paragraph at lines 2961--2961
-\TU/lmr/bx/it/8 americano|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 2961--2961
-[]|\TU/lmr/bx/it/8 Residente 
- []
-
-
-Overfull \hbox (17.097pt too wide) in paragraph at lines 2962--2962
-[]|\TU/lmr/bx/it/8 Podicephorus 
- []
-
-
-Overfull \hbox (9.345pt too wide) in paragraph at lines 2962--2962
-[]|\TU/lmr/bx/it/8 Mergulhão- 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 2962--2962
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (4.233pt too wide) in paragraph at lines 2963--2963
-[]|\TU/lmr/bx/it/8 Batuiruçu|  
- []
-
-
-Overfull \hbox (4.897pt too wide) in paragraph at lines 2964--2964
-\TU/lmr/bx/it/8 squatarola|  
- []
-
-
-Overfull \hbox (7.54501pt too wide) in paragraph at lines 2964--2964
-[]|\TU/lmr/bx/it/8 Batuiruçu- 
- []
-
-
-Overfull \hbox (8.18501pt too wide) in paragraph at lines 2966--2966
-[]|\TU/lmr/bx/it/8 Oreopholus 
- []
-
-
-Overfull \hbox (5.13701pt too wide) in paragraph at lines 2966--2966
-\TU/lmr/bx/it/8 ferrugíneo|  
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 2967--2967
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 2968--2968
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 2969--2969
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 2969--2969
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 2970--2970
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 2970--2970
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (8.66501pt too wide) in paragraph at lines 2972--2972
-[]|\TU/lmr/bx/it/8 Charadrius 
- []
-
-
-Overfull \hbox (21.24101pt too wide) in paragraph at lines 2972--2972
-\TU/lmr/bx/it/8 tral/Residente 
- []
-
-
-Overfull \hbox (13.697pt too wide) in paragraph at lines 2973--2973
-[]|\TU/lmr/bx/it/8 Haematopus 
- []
-
-
-Overfull \hbox (5.63301pt too wide) in paragraph at lines 2973--2973
-[]|\TU/lmr/bx/it/8 Residente, 
- []
-
-
-Overfull \hbox (12.761pt too wide) in paragraph at lines 2974--2974
-[]|\TU/lmr/bx/it/8 Himantopus 
- []
-
-
-Overfull \hbox (11.08101pt too wide) in paragraph at lines 2974--2974
-[]|\TU/lmr/bx/it/8 Pernilongo- 
- []
-
-
-Overfull \hbox (5.63301pt too wide) in paragraph at lines 2974--2974
-[]|\TU/lmr/bx/it/8 Residente, 
- []
-
-
-Overfull \hbox (12.761pt too wide) in paragraph at lines 2975--2975
-[]|\TU/lmr/bx/it/8 Himantopus 
- []
-
-
-Overfull \hbox (11.08101pt too wide) in paragraph at lines 2975--2975
-[]|\TU/lmr/bx/it/8 Pernilongo- 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 2975--2975
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (5.625pt too wide) in paragraph at lines 2976--2976
-[]|\TU/lmr/bx/it/8 Bartramia 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2976--2976
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.72101pt too wide) in paragraph at lines 2978--2978
-[]|\TU/lmr/bx/it/8 Numenius 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2978--2978
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2979--2979
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2981--2981
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2982--2982
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (5.729pt too wide) in paragraph at lines 2982--2982
-\TU/lmr/bx/it/8 pernilongo|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2984--2984
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2985--2985
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (19.281pt too wide) in paragraph at lines 2986--2986
-[]|\TU/lmr/bx/it/8 Maçariquinho|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2987--2987
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2988--2988
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (3.121pt too wide) in paragraph at lines 2988--2988
-\TU/lmr/bx/it/8 acanelado|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2990--2990
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2991--2991
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (7.73701pt too wide) in paragraph at lines 2991--2991
-\TU/lmr/bx/it/8 rasteirinho|  
- []
-
-
-Overfull \hbox (18.72101pt too wide) in paragraph at lines 2992--2992
-[]|\TU/lmr/bx/it/8 Limnodromus 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2992--2992
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (8.585pt too wide) in paragraph at lines 2993--2993
-[]|\TU/lmr/bx/it/8 Phalaropus 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2994--2994
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2996--2996
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (12.817pt too wide) in paragraph at lines 2997--2997
-\TU/lmr/bx/it/8 melanoleuca|  
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2997--2997
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2998--2998
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (4.37701pt too wide) in paragraph at lines 2999--2999
-[]|\TU/lmr/bx/it/8 Maçarico- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3000--3000
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3000--3000
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3002--3002
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3002--3002
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3003--3003
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3003--3003
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3004--3004
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3004--3004
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3005--3005
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3005--3005
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (1.921pt too wide) in paragraph at lines 3005--3005
-\TU/lmr/bx/it/8 pomarino|  
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3006--3006
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3006--3006
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (2.30501pt too wide) in paragraph at lines 3006--3006
-\TU/lmr/bx/it/8 parasítico|  
- []
-
-
-Overfull \hbox (12.457pt too wide) in paragraph at lines 3008--3008
-[]|\TU/lmr/bx/it/8 Stercorarius 
- []
-
-
-Overfull \hbox (6.73701pt too wide) in paragraph at lines 3008--3008
-[]|\TU/lmr/bx/it/8 Mandrião- 
- []
-
-
-Overfull \hbox (0.977pt too wide) in paragraph at lines 3008--3008
-\TU/lmr/bx/it/8 comprida|  
- []
-
-
-Overfull \hbox (27.83301pt too wide) in paragraph at lines 3009--3009
-[]|\TU/lmr/bx/it/8 Chroicocephalus 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3009--3009
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (27.83301pt too wide) in paragraph at lines 3010--3010
-[]|\TU/lmr/bx/it/8 Chroicocephalus 
- []
-
-
-Overfull \hbox (19.80101pt too wide) in paragraph at lines 3010--3010
-\TU/lmr/bx/it/8 costa/interior|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3010--3010
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (14.01701pt too wide) in paragraph at lines 3011--3011
-[]|\TU/lmr/bx/it/8 Leucophaeus 
- []
-
-
-Overfull \hbox (4.27301pt too wide) in paragraph at lines 3012--3013
-[]|\TU/lmr/bx/it/8 Incomum, 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3014--3014
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3015--3015
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3016--3016
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3017--3017
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (2.76901pt too wide) in paragraph at lines 3018--3018
-[]|\TU/lmr/bx/it/8 Rynchops 
- []
-
-
-Overfull \hbox (5.63301pt too wide) in paragraph at lines 3018--3018
-[]|\TU/lmr/bx/it/8 Residente, 
- []
-
-
-Overfull \hbox (15.63301pt too wide) in paragraph at lines 3020--3020
-[]|\TU/lmr/bx/it/8 Onychoprion 
- []
-
-
-Overfull \hbox (10.07301pt too wide) in paragraph at lines 3020--3020
-[]|\TU/lmr/bx/it/8 Migratório, 
- []
-
-
-Overfull \hbox (21.945pt too wide) in paragraph at lines 3021--3021
-\TU/lmr/bx/it/8 real/Residente 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3022--3022
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (0.54501pt too wide) in paragraph at lines 3023--3023
-[]|\TU/lmr/bx/it/8 Phaetusa 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3023--3023
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (15.033pt too wide) in paragraph at lines 3024--3024
-[]|\TU/lmr/bx/it/8 Gelochelidon 
- []
-
-
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3024--3024
-[]|\TU/lmr/bx/it/8 Parcialmente 
- []
-
-
-Overfull \hbox (2.40901pt too wide) in paragraph at lines 3028--3028
-[]|\TU/lmr/bx/it/8 Oceânico, 
- []
-
-
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3029--3029
-[]|\TU/lmr/bx/it/8 Parcialmente 
- []
-
-
-Overfull \hbox (23.369pt too wide) in paragraph at lines 3029--3029
-\TU/lmr/bx/it/8 RS/Residente)|  
- []
-
-
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3030--3030
-[]|\TU/lmr/bx/it/8 Parcialmente 
- []
-
-
-Overfull \hbox (7.705pt too wide) in paragraph at lines 3032--3032
-[]|\TU/lmr/bx/it/8 Thalasseus 
- []
-
-
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3032--3032
-[]|\TU/lmr/bx/it/8 Parcialmente 
- []
-
-
-Overfull \hbox (7.705pt too wide) in paragraph at lines 3033--3033
-[]|\TU/lmr/bx/it/8 Thalasseus 
- []
-
-
-Overfull \hbox (16.985pt too wide) in paragraph at lines 3033--3033
-[]|\TU/lmr/bx/it/8 Parcialmente 
- []
-
-
-Overfull \hbox (1.60901pt too wide) in paragraph at lines 3034--3034
-[]|\TU/lmr/bx/it/8 Phaethon 
- []
-
-
-Overfull \hbox (1.57701pt too wide) in paragraph at lines 3034--3034
-\TU/lmr/bx/it/8 aethereus|  
- []
-
-
-Overfull \hbox (2.473pt too wide) in paragraph at lines 3034--3034
-\TU/lmr/bx/it/8 Noronha)|  
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3034--3034
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (1.60901pt too wide) in paragraph at lines 3035--3035
-[]|\TU/lmr/bx/it/8 Phaethon 
- []
-
-
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3035--3035
-[]|\TU/lmr/bx/it/8 Residente|  
- []
-
-
-Overfull \hbox (7.841pt too wide) in paragraph at lines 3036--3036
-[]|\TU/lmr/bx/it/8 Spheniscus 
- []
-
-
-Overfull \hbox (1.145pt too wide) in paragraph at lines 3036--3036
-[]|\TU/lmr/bx/it/8 Pinguim- 
- []
-
-
-Overfull \hbox (5.113pt too wide) in paragraph at lines 3036--3036
-\TU/lmr/bx/it/8 magalhães|  
- []
-
-
-Overfull \hbox (1.66501pt too wide) in paragraph at lines 3036--3037
-[]|\TU/lmr/bx/it/8 Alteração 
- []
-
-
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3038--3038
-[]|\TU/lmr/bx/it/8 Diomedea 
- []
-
-
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3039--3039
-[]|\TU/lmr/bx/it/8 Diomedea 
- []
-
-
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3040--3040
-[]|\TU/lmr/bx/it/8 Diomedea 
- []
-
-
-Overfull \hbox (3.02501pt too wide) in paragraph at lines 3041--3041
-[]|\TU/lmr/bx/it/8 Diomedea 
- []
-
-
-Overfull \hbox (6.113pt too wide) in paragraph at lines 3042--3042
-[]|\TU/lmr/bx/it/8 Phoebetria 
- []
-
-
-Overfull \hbox (16.097pt too wide) in paragraph at lines 3044--3044
-[]|\TU/lmr/bx/it/8 Thalassarche 
- []
-
-
-Overfull \hbox (9.977pt too wide) in paragraph at lines 3044--3044
-\TU/lmr/bx/it/8 chlororhyn- 
- []
-
-
-Overfull \hbox (16.097pt too wide) in paragraph at lines 3045--3045
-[]|\TU/lmr/bx/it/8 Thalassarche 
- []
-
-
-Overfull \hbox (12.921pt too wide) in paragraph at lines 3045--3045
-\TU/lmr/bx/it/8 melanophris|  
- []
-
-
-Overfull \hbox (13.401pt too wide) in paragraph at lines 3045--3045
-\TU/lmr/bx/it/8 sobrancelha- 
- []
-
-
-Overfull \hbox (2.281pt too wide) in paragraph at lines 3048--3048
-[]|\TU/lmr/bx/it/8 Oceanites 
- []
-
-
-Overfull \hbox (8.27301pt too wide) in paragraph at lines 3050--3050
-[]|\TU/lmr/bx/it/8 Hydrobates 
- []
-
-
-Overfull \hbox (14.177pt too wide) in paragraph at lines 3051--3051
-[]|\TU/lmr/bx/it/8 Macronectes 
- []
-
-
-Overfull \hbox (14.177pt too wide) in paragraph at lines 3052--3052
-[]|\TU/lmr/bx/it/8 Macronectes 
- []
-
-
-Overfull \hbox (1.481pt too wide) in paragraph at lines 3053--3053
-[]|\TU/lmr/bx/it/8 Fulmarus 
- []
-
-
-Overfull \hbox (9.889pt too wide) in paragraph at lines 3053--3053
-\TU/lmr/bx/it/8 glacialoides|  
- []
-
 
-Overfull \hbox (2.561pt too wide) in paragraph at lines 3053--3053
-[]|\TU/lmr/bx/it/8 Pardelão- 
+Overfull \hbox (0.8228pt too wide) in paragraph at lines 2952--2952
+ []|\TU/lmr/m/n/9 Ameaça 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3056--3056
-[]|\TU/lmr/bx/it/8 Pterodroma 
+Overfull \hbox (36.24884pt too wide) in alignment at lines 2949--2954
+ [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3057--3057
-[]|\TU/lmr/bx/it/8 Pterodroma 
+Overfull \hbox (36.24884pt too wide) in alignment at lines 2954--2956
+ [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3058--3058
-[]|\TU/lmr/bx/it/8 Pterodroma 
+Overfull \hbox (36.24884pt too wide) in alignment at lines 2956--2959
+ [] [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3059--3059
-[]|\TU/lmr/bx/it/8 Pterodroma 
+Overfull \hbox (6.64494pt too wide) in paragraph at lines 2960--2960
+[]|\TU/lmr/m/it/9 Phoenicopterus 
  []
 
 
-Overfull \hbox (10.57701pt too wide) in paragraph at lines 3060--3060
-[]|\TU/lmr/bx/it/8 Pterodroma 
+Overfull \hbox (6.64494pt too wide) in paragraph at lines 2961--2961
+[]|\TU/lmr/m/it/9 Phoenicopterus 
  []
 
 
-Overfull \hbox (3.817pt too wide) in paragraph at lines 3060--3060
-\TU/lmr/bx/it/8 Trindade) 
+Overfull \hbox (0.50142pt too wide) in paragraph at lines 2962--2962
+[]|\TU/lmr/m/n/9 Mergulhão- 
  []
 
 
-Overfull \hbox (6.12901pt too wide) in paragraph at lines 3062--3062
-[]|\TU/lmr/bx/it/8 Pachyptila 
+Overfull \hbox (9.65341pt too wide) in paragraph at lines 2972--2972
+\TU/lmr/m/n/9 tral/Residente 
  []
 
 
-Overfull \hbox (6.12901pt too wide) in paragraph at lines 3063--3063
-[]|\TU/lmr/bx/it/8 Pachyptila 
+Overfull \hbox (0.62743pt too wide) in paragraph at lines 2974--2974
+[]|\TU/lmr/m/n/9 Pernilongo- 
  []
 
 
-Overfull \hbox (7.77701pt too wide) in paragraph at lines 3065--3065
-[]|\TU/lmr/bx/it/8 Procellaria 
+Overfull \hbox (0.62743pt too wide) in paragraph at lines 2975--2975
+[]|\TU/lmr/m/n/9 Pernilongo- 
  []
 
 
-Overfull \hbox (7.77701pt too wide) in paragraph at lines 3066--3066
-[]|\TU/lmr/bx/it/8 Procellaria 
+Overfull \hbox (10.00542pt too wide) in paragraph at lines 2986--2986
+[]|\TU/lmr/m/n/9 Maçariquinho|  
  []
 
 
-Overfull \hbox (9.393pt too wide) in paragraph at lines 3068--3068
-[]|\TU/lmr/bx/it/8 Calonectris 
+Overfull \hbox (0.75894pt too wide) in paragraph at lines 2992--2992
+[]|\TU/lmr/m/it/9 Limnodromus 
  []
 
 
-Overfull \hbox (9.393pt too wide) in paragraph at lines 3069--3069
-[]|\TU/lmr/bx/it/8 Calonectris 
+Overfull \hbox (9.60594pt too wide) in paragraph at lines 3009--3009
+[]|\TU/lmr/m/it/9 Chroicocephalus 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3076--3076
-[]|\TU/lmr/bx/it/8 Residente|  
+Overfull \hbox (9.60594pt too wide) in paragraph at lines 3010--3010
+[]|\TU/lmr/m/it/9 Chroicocephalus 
  []
 
 
-Overfull \hbox (3.01701pt too wide) in paragraph at lines 3076--3077
-[]|\TU/lmr/bx/it/8 Endêmico 
+Overfull \hbox (6.46742pt too wide) in paragraph at lines 3010--3010
+ \TU/lmr/m/n/9 costa/interior| 
  []
 
 
-Overfull \hbox (2.88101pt too wide) in paragraph at lines 3076--3077
-\TU/lmr/bx/it/8 Trindade, 
+Overfull \hbox (10.16641pt too wide) in paragraph at lines 3021--3021
+\TU/lmr/m/n/9 real/Residente 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3077--3077
-[]|\TU/lmr/bx/it/8 Residente|  
+Overfull \hbox (4.19942pt too wide) in paragraph at lines 3024--3024
+[]|\TU/lmr/m/n/9 Parcialmente 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3078--3078
-[]|\TU/lmr/bx/it/8 Residente|  
+Overfull \hbox (4.19942pt too wide) in paragraph at lines 3029--3029
+[]|\TU/lmr/m/n/9 Parcialmente 
  []
 
 
-Overfull \hbox (3.01701pt too wide) in paragraph at lines 3078--3079
-[]|\TU/lmr/bx/it/8 Endêmico 
+Overfull \hbox (10.77841pt too wide) in paragraph at lines 3029--3029
+\TU/lmr/m/n/9 RS/Residente)|  
  []
 
 
-Overfull \hbox (2.88101pt too wide) in paragraph at lines 3078--3079
-\TU/lmr/bx/it/8 Trindade, 
+Overfull \hbox (4.19942pt too wide) in paragraph at lines 3030--3030
+[]|\TU/lmr/m/n/9 Parcialmente 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3080--3080
-[]|\TU/lmr/bx/it/8 Residente|  
+Overfull \hbox (4.19942pt too wide) in paragraph at lines 3032--3032
+[]|\TU/lmr/m/n/9 Parcialmente 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3081--3081
-[]|\TU/lmr/bx/it/8 Residente|  
+Overfull \hbox (4.19942pt too wide) in paragraph at lines 3033--3033
+[]|\TU/lmr/m/n/9 Parcialmente 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3082--3082
-[]|\TU/lmr/bx/it/8 Residente|  
+Overfull \hbox (4.92043pt too wide) in paragraph at lines 3045--3045
+\TU/lmr/m/n/9 sobrancelha- 
  []
 
 
-Overfull \hbox (19.48901pt too wide) in paragraph at lines 3083--3083
-[]|\TU/lmr/bx/it/8 Nannopterum 
+Overfull \hbox (1.10094pt too wide) in paragraph at lines 3083--3083
+[]|\TU/lmr/m/it/9 Nannopterum 
  []
 
 
-Overfull \hbox (2.785pt too wide) in paragraph at lines 3083--3083
-[]|\TU/lmr/bx/it/8 Residente 
+Overfull \hbox (36.24884pt too wide) in alignment at lines 2959--3084
+ [] [] [] [] [] [] [] [] 
  []
 
-[177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188] [189] [190] [191]
-Underfull \hbox (badness 2951) in paragraph at lines 3093--3094
+[177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188]
+Underfull \hbox (badness 2951) in paragraph at lines 3095--3096
 \TU/lmr/m/n/10.95 Disponível em: []$[][][][] [] [] [] [][][][][][][][][] [] [][][] [] [][] [] [][] [][] [][][][][][][] [] [][][][][][][] [] [][][][] [] [][] [] [][] [] [][][][][][][] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3105--3106
+Underfull \hbox (badness 10000) in paragraph at lines 3107--3108
 [] [] [][][] [] [][][][] [] [][][] [] [][][][][] [] [][][] [] [][][][][] [] [][][][][] [] [][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][] [] [][][][] [] [][][]$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3111--3112
+Underfull \hbox (badness 10000) in paragraph at lines 3113--3114
 [][][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][][] [] [] [] [][][][][] [] [][] [] [][][][][][][][][][][][] [] [][] [] [][][][] [] [][][][][][][][][][][] []
  []
 
-[192]
-Underfull \hbox (badness 3323) in paragraph at lines 3124--3125
+[189]
+Underfull \hbox (badness 3323) in paragraph at lines 3126--3127
 \TU/lmr/m/n/10.95 tracks for the Ascension Frigatebird \TU/lmr/m/it/10.95 Fregata aquila \TU/lmr/m/n/10.95 highlight the importance
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3124--3125
+Underfull \hbox (badness 10000) in paragraph at lines 3126--3127
 [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][] [] [][][][][] [][] [][][][][][][][][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3124--3125
+Underfull \hbox (badness 10000) in paragraph at lines 3126--3127
 [][][] [] [][][] [] [][][][][][][][][] [] [][][][][][][][][][][] [] [][][][][][][] [] [][][][][][] [] [][][][][][][][][] [] [][][] [] [][][][][][][][][][] [] [][] []
  []
 
-[193]
-Underfull \hbox (badness 10000) in paragraph at lines 3138--3139
+[190]
+Underfull \hbox (badness 10000) in paragraph at lines 3140--3141
 []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3138--3139
+Underfull \hbox (badness 10000) in paragraph at lines 3140--3141
 [][][][][][][][] [] [][][][] [] [][][][][] [] [][] [] [][][] [] [][][][][][][] [] [][][][] [] [][] [] [][][] [] [][][][][] [] [][][] [] [][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 3138--3139
+Underfull \hbox (badness 6094) in paragraph at lines 3140--3141
 [][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][][][]$[] \TU/lmr/m/n/10.95 Acesso em:
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 3144--3145
+Underfull \hbox (badness 3058) in paragraph at lines 3146--3147
 []\TU/lmr/m/n/10.95 EPE (Empresa de Pesquisa Energética). 2019. Roadmap Eólica Offshore
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3144--3145
+Underfull \hbox (badness 10000) in paragraph at lines 3146--3147
 [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] [][] [][][] [] [][][][][][][] [] [][][][][][] [] [][][][][][][][] [] [][][] []
  []
 
-[194]
-Underfull \hbox (badness 10000) in paragraph at lines 3170--3171
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 3172--3173
 \TU/lmr/m/n/10.95 em: []$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][] [] [][][] [] [][][][][][][][][] [] [][][][][] [][] [][] [][] [][][][][][][][] [][] [][] [][] [][][][][][][][][][][][][] [][]
  []
 
-[195]
-Underfull \hbox (badness 1675) in paragraph at lines 3182--3183
+[192]
+Underfull \hbox (badness 1675) in paragraph at lines 3184--3185
 \TU/lmr/m/n/10.95 tribuição, abundância e sazonalidade de \TU/lmr/m/it/10.95 Leucophaeus atricilla \TU/lmr/m/n/10.95 (Charadriiformes:
  []
 
-[196] [197]
-Underfull \hbox (badness 10000) in paragraph at lines 3236--3237
+[193] [194]
+Underfull \hbox (badness 10000) in paragraph at lines 3238--3239
 \TU/lmr/m/n/10.95 em: []$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][] [] [][][][][][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][][][] [][]
  []
 
-[198] [199]
+[195] [196]
 chapter 9.
-[200
+[197
 
 
-] [201]
+] [198]
 File: imagens/cap09/Figura_9.1.jpg Graphic file (type bmp)
 <imagens/cap09/Figura_9.1.jpg>
 File: imagens/cap09/Figura_9.2.jpg Graphic file (type bmp)
 <imagens/cap09/Figura_9.2.jpg>
-[202]
+[199]
 File: imagens/cap09/Figura_9.3.jpeg Graphic file (type bmp)
 <imagens/cap09/Figura_9.3.jpeg>
-[203] [204]
+[200] [201]
 File: imagens/cap09/Figura_9.5.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.5.png>
-[205]
+[202]
 File: imagens/cap09/Figura_9.6.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.6.png>
-[206]
+[203]
 Overfull \vbox (8.87193pt too high) has occurred while \output is active []
 
-[207]
+[204]
 File: imagens/cap09/Figura_9.7.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.7.png>
 
 Overfull \vbox (2.00961pt too high) has occurred while \output is active []
 
-[208]
+[205]
 File: imagens/cap09/Figura_9.8.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.8.png>
 File: imagens/cap09/Figura_9.9.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.9.png>
-[209]
+[206]
 File: imagens/cap09/Figura_9.10.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.10.png>
-[210]
+[207]
 Overfull \vbox (2.541pt too high) has occurred while \output is active []
 
-[211]
+[208]
 File: imagens/cap09/Figura_9.11.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.11.png>
 
 Overfull \vbox (2.541pt too high) has occurred while \output is active []
 
-[212]
+[209]
 File: imagens/cap09/Figura_9.12.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.12.png>
 File: imagens/cap09/Figura_9.13.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.13.png>
-[213]
+[210]
 File: imagens/cap09/Figura_9.14.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.14.png>
-[214]
+[211]
 Overfull \vbox (2.00961pt too high) has occurred while \output is active []
 
-[215]
+[212]
 File: imagens/cap09/Figura_9.15.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.15.png>
 File: imagens/cap09/Figura_9.16.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.16.png>
-[216]
+[213]
 File: imagens/cap09/Figura_9.17.png Graphic file (type bmp)
 <imagens/cap09/Figura_9.17.png>
-[217]
+[214]
 Overfull \vbox (3.98059pt too high) has occurred while \output is active []
 
-[218] [219]
-Underfull \hbox (badness 1635) in paragraph at lines 3470--3471
+[215] [216]
+Underfull \hbox (badness 1635) in paragraph at lines 3469--3470
 \TU/lmr/m/n/10.95 2017. Diretrizes para estudos de impacto de parques eólicos sobre morcegos
  []
 
-[220]
+[217]
 chapter A.
-[221
+[218
 
 
-] [222] [223] [224] [225] [226]
+] [219] [220] [221] [222] [223]
 chapter B.
 
-Overfull \hbox (32.53578pt too wide) in alignment at lines 3735--3748
+Overfull \hbox (32.53578pt too wide) in alignment at lines 3734--3747
  [] [] 
  []
 
-[227
+[224
 
 
 ]
 chapter C.
-[228
+[225
 
 
 ]
 chapter D.
-[229
+[226
 
 
-] [230]
+] [227]
 No file rel_mig_cemave4.bbl.
-[231] (./rel_mig_cemave4.aux)
+[228] (./rel_mig_cemave4.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34392 strings out of 478126
- 711996 string characters out of 5851118
- 1457103 words of memory out of 5000000
- 54390 multiletter control sequences out of 15000+600000
- 479773 words of font info for 118 fonts, out of 8000000 for 9000
+ 34383 strings out of 478126
+ 711781 string characters out of 5851118
+ 1447179 words of memory out of 5000000
+ 54385 multiletter control sequences out of 15000+600000
+ 478797 words of font info for 110 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,14n,121p,10638b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on rel_mig_cemave4.pdf (232 pages).
+Output written on rel_mig_cemave4.pdf (229 pages).

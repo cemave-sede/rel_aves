@@ -11,7 +11,7 @@
 
 \pagestyle{headings}
 
-# A - Lista de aves migratórias
+# Apêndice A - Lista de aves migratórias
 
 \hspace{1.5cm}
 
@@ -1976,7 +1976,7 @@ Espécies de aves migratórias^[Nomenclatura de acordo com o Comitê Brasileiro 
 
 \newpage
 
-# B - Critérios dos escores de vulnerabilidade
+# Apêndice B - Critérios dos escores de vulnerabilidade
 
 Critérios relativos ao escore de vulnerabilidade de aves migratórias a parques eólicos.  
 
@@ -2020,9 +2020,11 @@ Critérios relativos ao escore de vulnerabilidade de aves migratórias a parques
 </tbody>
 </table>
 
+
+
 \newpage
 
-# C - Parâmetros do Zonation
+# Apêndice C - Parâmetros do Zonation
 
 
 Parâmetros de configuração utilizados no Zonation.  
@@ -2061,7 +2063,7 @@ Parâmetros de configuração utilizados no Zonation.
 
 \newpage
 
-# D - Normas e diretrizes
+# Apêndice D - Normas e diretrizes
 
 Algumas normas, diretrizes e orientações relacionadas ao planejamento, implantação e operação de empreendimentos eólicos.  
 

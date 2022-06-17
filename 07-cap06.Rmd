@@ -79,7 +79,7 @@ Na geração de energia por parques eólicos *onshore* (em contraposição aos *
 
 </br>
 
-```{r 18, echo = FALSE, out.width = '50%', fig.pos = 'H', fig.align="center", fig.cap = 'Montagem de um aerogerador ou turbina eólica. (Fonte: Pixabay.com)'}
+```{r 18, echo = FALSE, out.width = '50%', fig.pos = 'H', fig.align="center", fig.cap = 'Montagem de um aerogerador ou turbina eólica. Fonte: Pixabay.com'}
 
 knitr::include_graphics("imagens/cap06/Figura_6.1.jpg")
 
@@ -94,7 +94,7 @@ O monitoramento deve ser capaz de avaliar a magnitude dos distintos impactos à 
 
 </br>
 
-```{r 19, echo = FALSE, out.width = '85%', fig.align="center", fig.cap = 'Exemplo de interação entre monitoramento e gestão de conflitos. (Adaptado de: Bennun et al. 2021)'}
+```{r 19, echo = FALSE, out.width = '85%', fig.align="center", fig.cap = 'Exemplo de interação entre monitoramento e gestão de conflitos. Adaptado de: Bennun et al. (2021)'}
 
 knitr::include_graphics("imagens/cap06/Figura_6.2.jpg")
 
@@ -123,7 +123,7 @@ Os protocolos empregados para o monitoramento da ocorrência e uso do espaço po
 
 </br>
 
-```{r 20, echo = FALSE, out.width = '75%', fig.align="center", fig.pos = 'H', fig.cap = 'A. Captura por rede de neblina; B. Busca ativa por aves mortas por colisão e eletroplessão. (Fotos: Emanuel Sousa e Flávia Regina Domingos)'}
+```{r 20, echo = FALSE, out.width = '75%', fig.align="center", fig.pos = 'H', fig.cap = 'A. Captura por rede de neblina; B. Busca ativa por aves mortas por colisão e eletroplessão. Fotos: Emanuel Sousa e Flávia Regina Domingos'}
 
 knitr::include_graphics("imagens/cap06/Figura_6.3ab.jpg")
 

@@ -122,12 +122,11 @@ as-aves-marinhas-e-costeiras-no-brasil
 sugestões-para-mitigação-de-impacto-de-ceos-à-avifauna-marinha-e-costeira-no-brasil
 referências-bibliográficas-7
 morcegos-e-eólicas-modelagens-de-riqueza-de-espécies-e-risco-de-colisão-atual-no-brasil
-introdução
-métodos
+modelagem-da-riqueza-de-morcegos-e-avaliação-do-potencial-de-colisão
 resultados-2
 considerações-finais
 referências-bibliográficas-8
-a---lista-de-aves-migratórias
-b---critérios-dos-escores-de-vulnerabilidade
-c---parâmetros-do-zonation
-d---normas-e-diretrizes
+apêndice-a---lista-de-aves-migratórias
+apêndice-b---critérios-dos-escores-de-vulnerabilidade
+apêndice-c---parâmetros-do-zonation
+apêndice-d---normas-e-diretrizes

@@ -72,7 +72,7 @@ A energia eólica em escala comercial desenvolveu-se a partir da década de 1980
 
 <br>
 
-```{r 61, echo = FALSE, out.width = '75%', fig.pos = 'H', fig.align="center", fig.cap = 'Evolução da capacidade instalada de energia eólica, em terra e no mar, no mundo (em gigawatts GW, acima) (GWEC 2021), e no Brasil, atualmente somente em terra (em megawatts MW, abaixo) (ABEEólica 2021).'}
+```{r 61, echo = FALSE, out.width = '90%', fig.pos = 'H', fig.align="center", fig.cap = 'Evolução da capacidade instalada de energia eólica, em terra e no mar, no mundo (em gigawatts GW, acima) (GWEC 2021), e no Brasil, atualmente somente em terra (em megawatts MW, abaixo) (ABEEólica 2021).'}
 
 knitr::include_graphics("imagens/cap08/Figura_8.1ab.jpg")
 
@@ -103,7 +103,7 @@ knitr::include_graphics("imagens/cap08/Figura_8.3.jpg")
 
 O rápido desenvolvimento da energia eólica *offshore* no mundo, em especial na última década, com perspectiva de reprodução, agora, no Brasil, tem demandado a mobilização de empreendedores, órgãos ambientais e pesquisadores por diretrizes de licenciamento, avaliação de risco e desenvolvimento de metodologias ou abordagens para identificação e mitigação de potenciais impactos, com especial foco nas aves marinhas e costeiras. Esse cenário é bastante desafiador, dada a urgência do tema e a heterogeneidade ambiental e de composição da avifauna ao longo da vasta costa brasileira, para as quais não há uma única e simples abordagem.  
 
-Embora alguns dos impactos ambientais decorrentes dos empreendimentos eólicos no mar sejam similares aos terrestres (e.g., impactos por colisão e barreiras aos deslocamentos predominantemente afetando as aves, além de supressão ou alteração de *habitat*), existem outros associados às peculiaridades do ambiente e das espécies marinhas. Por exemplo, enquanto espécies de morcegos frequentemente colidem com estruturas eólicas em ambientes terrestres, a frequência de registros de quirópteros é menor à medida que aumenta a distância da costa (Solick & Newman 2021). No Brasil, não é conhecido se as espécies de morcegos são migratórias (Bernard & Delgado-Jaramillo 2019) ou mesmo se ocorrem em ambiente marinho. No mar, as aves marinhas e costeiras são grupos com maior risco, enquanto aves de rapina e Passeriformes, comumente sob elevado risco no ambiente terrestre, devem sofrer pouco ou nenhum impacto em ambientes marinhos. Para as aves marinhas, os riscos são basicamente de mortalidade direta causada por colisão com as estruturas, em especial com as hélices, ou por evitação de habitat anteriormente usados (Furness et al. 2013). Considerando esse problema, o presente capítulo visa: 1) indicar de forma objetiva a legislação aplicável e seu desenvolvimento nos últimos anos, incluindo aquelas normas específicas sobre a tipologia eólica *offshore*, bem como a legislação aplicável às aves marinhas e costeiras; 2) fornecer um panorama geral sobre o conhecimento global atual acerca do impacto de eólicas no mar sobre as aves marinhas, identificando as experiências internacionais quanto aos grupos potencialmente impactados e as abordagens de estudo, monitoramento e inovações tecnológicas; 3) apontar grupos de aves marinhas de interesse nas áreas de elevado potencial eólico *offshore* no Brasil, dada a demanda de licenciamento atualmente em curso e a ocorrência de espécies conhecidas ou potencialmente ocorrentes nestas áreas; e 4) apresentar e discutir cuidados importantes a serem levados em conta durante as fases do licenciamento, considerando o conhecimento atual sobre distribuição espacial e comportamento de aves marinhas no Brasil, técnicas e abordagens promissoras para execução do diagnóstico e monitoramento, bem como o balizamento apresentado no Termo de Referência para elaboração de Estudos e Relatórios de Impacto Ambiental – EIA/RIMAs de Complexos Eólicos *Offshore* (CEO) do IBAMA. Este texto não tem a pretensão de ser um guia detalhado e definitivo sobre um tema tão complexo e sobre o qual existem muitas lacunas e especificidades. Porém, pretende indicar aspectos gerais que requerem atenção, e fornecer um primeiro cenário da interface entre a energia eólica *offshore* e as aves marinhas e costeiras que ocorrem no Brasil. Sobre o panorama inicial aqui apresentado, futuros direcionamentos e aprimoramentos devem ser aplicados, usando-se uma abordagem adaptativa à medida que avançamos no entendimento sobre o tema e que as atividades são realizadas (*sensu* Bell & Morse 2003).  
+Embora alguns dos impactos ambientais decorrentes dos empreendimentos eólicos no mar sejam similares aos terrestres (e.g., impactos por colisão e barreiras aos deslocamentos predominantemente afetando as aves, além de supressão ou alteração de *habitat*), existem outros associados às peculiaridades do ambiente e das espécies marinhas. Por exemplo, enquanto espécies de morcegos frequentemente colidem com estruturas eólicas em ambientes terrestres, a frequência de registros de quirópteros é menor à medida que aumenta a distância da costa (Solick & Newman 2021). No Brasil, não é conhecido se as espécies de morcegos são migratórias (Bernard & Delgado-Jaramillo 2019) ou mesmo se ocorrem regularmente em ambiente marinho, onde apenas registros esporádicos (Costa et al. 2006, Esbérard e Moreira 2006, Van Deusen 1961) foram documentados. No mar, as aves marinhas e costeiras são grupos com maior risco, enquanto aves de rapina e Passeriformes, comumente sob elevado risco no ambiente terrestre, devem sofrer pouco ou nenhum impacto em ambientes marinhos. Para as aves marinhas, os riscos são basicamente de mortalidade direta causada por colisão com as estruturas, em especial com as hélices, ou por evitação de habitat anteriormente usados (Furness et al. 2013). Considerando esse problema, o presente capítulo visa: 1) indicar de forma objetiva a legislação aplicável e seu desenvolvimento nos últimos anos, incluindo aquelas normas específicas sobre a tipologia eólica *offshore*, bem como a legislação aplicável às aves marinhas e costeiras; 2) fornecer um panorama geral sobre o conhecimento global atual acerca do impacto de eólicas no mar sobre as aves marinhas, identificando as experiências internacionais quanto aos grupos potencialmente impactados e as abordagens de estudo, monitoramento e inovações tecnológicas; 3) apontar grupos de aves marinhas de interesse nas áreas de elevado potencial eólico *offshore* no Brasil, dada a demanda de licenciamento atualmente em curso e a ocorrência de espécies conhecidas ou potencialmente ocorrentes nestas áreas; e 4) apresentar e discutir cuidados importantes a serem levados em conta durante as fases do licenciamento, considerando o conhecimento atual sobre distribuição espacial e comportamento de aves marinhas no Brasil, técnicas e abordagens promissoras para execução do diagnóstico e monitoramento, bem como o balizamento apresentado no Termo de Referência para elaboração de Estudos e Relatórios de Impacto Ambiental – EIA/RIMAs de Complexos Eólicos *Offshore* (CEO) do IBAMA. Este texto não tem a pretensão de ser um guia detalhado e definitivo sobre um tema tão complexo e sobre o qual existem muitas lacunas e especificidades. Porém, pretende indicar aspectos gerais que requerem atenção, e fornecer um primeiro cenário da interface entre a energia eólica *offshore* e as aves marinhas e costeiras que ocorrem no Brasil. Sobre o panorama inicial aqui apresentado, futuros direcionamentos e aprimoramentos devem ser aplicados, usando-se uma abordagem adaptativa à medida que avançamos no entendimento sobre o tema e que as atividades são realizadas (*sensu* Bell & Morse 2003).  
 
 ## Histórico no Brasil e legislação aplicável
 
@@ -144,7 +144,7 @@ knitr::include_graphics("imagens/cap08/Figura_8.5.jpg")
 
 <br>
 
-(ref:long9) Tipos de estrutura de fixação de turbinas eólicas *offshore*. A - Monopés ou estacas (*Monopile*), B - Base gravitacional (*Gravity base*) e C - Tripés (*Jacket and tripods*). (Imagem: Manzano-Agugliaro et al. 2020; CC BY)
+(ref:long9) Tipos de estrutura de fixação de turbinas eólicas *offshore*. A - Monopés ou estacas (*Monopile*), B - Base gravitacional (*Gravity base*) e C - Tripés (*Jacket and tripods*). Imagem: Manzano-Agugliaro et al. (2020) [CC BY]
 
 
 A busca por áreas com maior potencial eólico e menor profundidade, bem como a proximidade com infraestrutura portuária consolidada, fizeram com que começassem a surgir sobreposições de poligonais projetadas para diferentes empreendimentos. Como subsídio aos empreendedores, desde junho de 2021 o IBAMA disponibiliza publicamente um [mapa dos empreendimentos em licenciamento](https://www.ibama.gov.br/laf/consultas/mapas-de-projetos-em-licenciamento-complexos-eolicos-offshore), atualizado sempre que um novo processo é iniciado ou finalizado. Desde então, nenhuma nova sobreposição foi verificada, apontando para a importância da transparência e publicidade de informações que auxiliem na elaboração dos projetos, sendo esse princípio igualmente aplicável às informações ambientais geradas nos estudos e monitoramentos exigidos durante o licenciamento. No entanto, a demanda por instalação de diferentes empreendimentos em áreas adjacentes, gera uma barreira contínua ao longo da costa, com implicações para a navegação e potencial surgimento de barreiras para organismos marinhos. Esse aspecto suscita preocupações quanto aos efeitos cumulativos, em nível de populações (e.g., Goodale & Milman 2020), comunidades ou guildas de aves (Goodale et al. 2019). Em especial, os impactos são maiores nas populações de aves que usam a região nerítica (Goodale et al. 2019), devendo ser abordados com cautela e olhar em macroescala.  
@@ -208,7 +208,7 @@ knitr::include_graphics("imagens/cap08/Figura_8.6.jpg")
 
 ```
 
-(ref:long10) Proposta de estrutura de trabalho aplicável ao planejamento de estudos de impacto ambiental e de monitoramento ambiental em áreas de exploração de energia eólica *offshore* ao longo da costa brasileira. CEO – Complexo Eólico *Offshore*; ADA – Área Diretamente Afetada; AID – Área de Influência Direta; AII – Área de Influência Indireta. Definições segundo o Termo de Referência Padrão para Estudo de Impacto Ambiental e Relatório de Impacto Ambiental de Complexos Eólicos *Offshore* (IBAMA 2020).
+(ref:long10) Proposta de estrutura de trabalho aplicável ao planejamento de estudos de impacto ambiental e de monitoramento ambiental em áreas de exploração de energia eólica *offshore* ao longo da costa brasileira. CEO – Complexo Eólico *Offshore*; ADA – Área Diretamente Afetada; AID – Área de Influência Direta; AII – Área de Influência Indireta. Definições segundo o Termo de Referência padrão para Estudo de Impacto Ambiental e Relatório de Impacto Ambiental de Complexos Eólicos *Offshore* (IBAMA 2020).
 
 <br>
 
@@ -258,15 +258,24 @@ library(tidyverse)
 tabela_8.1 <- read.csv2("dados/tabelas/Tabela_8.1.csv", encoding="UTF-8")
 kbl(tabela_8.1,
              booktabs = TRUE,
+             escape = FALSE,
              longtable = TRUE,
-             align = "llccll",
-             caption = 'Espécies de aves marinhas e costeiras de interesse para os Complexos Eólicos Offshore no Brasil.',
-             col.names = c("Táxon", "Nome comum", "Ameaça global (IUCN, 2020)", "Ameaça nacional (MMA, 2014)", "Área de ocorrência predominante", "Habitat (Costeiro Nerítico Oceânico)", "Status migratório", "Impacto e risco potencial dos CEOs")) %>%
-            column_spec(1, italic = TRUE, column = 1:8, width ="0.5in") %>% 
-kable_styling(full_width = F, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 8, latex_options = c("repeat_header"), repeat_header_text = "\\textit{(continuação)}") %>%
+             align = "llccccll",
+             caption = "(ref:tabela8)",
+             col.names = c("Táxon", "Nome comum", "Ameaça global (IUCN 2020)", "Ameaça nacional (MMA 2014)", "Área de ocorrência predominante", "Habitat (Costeiro Nerítico Oceânico)", "Status migratório", "Impacto e risco potencial dos CEOs")) %>%
+            column_spec(1, italic = TRUE)  %>%
+            column_spec(1:8, width ="1.7cm") %>%
+            column_spec(1, width ="1.9cm")  %>%
+            column_spec(2, width ="1.6cm")  %>%
+            column_spec(3, width ="1.1cm")  %>%
+            column_spec(4, width ="1.2cm")  %>%
+kable_styling(full_width = F, bootstrap_options = c("striped", "hover", "condensed", "responsive"), font_size = 9, latex_options = c("repeat_header"), repeat_header_text = "\\textit{(continuação)}") %>%
             footnote(number = c("Sequências e nomenclaturas estão de acordo com a lista brasileira de aves (Pacheco et al. 2021).", "As espécies vagantes foram excluídas, pois tem baixa probabilidade de impacto oriundo dos CEOs e baixo risco presumível."), threeparttable=T)
 
 ``` 
+
+
+(ref:tabela8) Espécies de aves marinhas e costeiras de interesse para os Complexos Eólicos *Offshore* no Brasil. 
 
 <br>
 

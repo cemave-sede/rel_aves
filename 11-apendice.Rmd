@@ -84,6 +84,8 @@ kable_styling(full_width = F, bootstrap_options = c("striped", "hover", "condens
 
 ```
 
+
+
 \newpage
 
 # Apêndice C - Parâmetros do Zonation

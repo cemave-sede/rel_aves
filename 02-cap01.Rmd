@@ -75,7 +75,7 @@ Neste cenário, entre os desafios para a expansão da transmissão incluem-se a 
 
 A capacidade instalada de geração de energia elétrica do Brasil em 2021 foi estimada em 186 GW, com a energia eólica representando 9% desse valor (Figura \@ref(fig:01)).
 
-```{r 01, cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.pos = 'H', fig.align="center", out.width = '60%', fig.cap = 'Composição da matriz elétrica do Brasil em 2020. Fonte: MME (2020a).'}
+```{r 01, cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.pos = 'H', fig.align="center", out.width = '60%', fig.cap = 'Composição da matriz elétrica do Brasil em 2020. Fonte: MME (2020a)'}
 
 knitr::include_graphics("imagens/cap01/Figura_1.1.jpg")
 
@@ -124,7 +124,7 @@ Os estudos de potencial eólico são fundamentais para o planejamento da implant
 
 
 
-```{r 02, cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.pos = 'H', fig.align="center", out.width = '70%', fig.cap = 'Distribuição do potencial eólico das regiões do país. Fonte: Amarante et al. (2001).'}
+```{r 02, cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.pos = 'H', fig.align="center", out.width = '70%', fig.cap = 'Distribuição do potencial eólico das regiões do país. Fonte: Amarante et al. (2001)'}
 
 knitr::include_graphics("imagens/cap01/Figura_1.2.jpg")
 
@@ -424,7 +424,7 @@ O Brasil tem um grande potencial de exploração e, em pouco mais de duas décad
 
 </br>
 
-```{r 07, cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.pos = 'H', out.width = '70%', fig.align="center", fig.cap = 'Países com maior capacidade de geração de energia eólica. Os valores indicam o potencial instalado em MW. Fonte: GWEC (2021).'}
+```{r 07, cache=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.pos = 'H', out.width = '70%', fig.align="center", fig.cap = 'Países com maior capacidade de geração de energia eólica. Os valores indicam o potencial instalado em MW. Fonte: GWEC (2021)'}
 
 knitr::include_graphics("imagens/cap01/Figura_1.7.jpg")
 
